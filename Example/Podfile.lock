@@ -1,0 +1,16 @@
+PODS:
+  - SJFrameSwift (0.1.0)
+
+DEPENDENCIES:
+  - SJFrameSwift (from `../`)
+
+EXTERNAL SOURCES:
+  SJFrameSwift:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  SJFrameSwift: adfff16a0f17c6412cfec549d665e8ebc54d9bdd
+
+PODFILE CHECKSUM: 8387350296ccb67a26ba191f77278d11a9e5245b
+
+COCOAPODS: 1.6.0

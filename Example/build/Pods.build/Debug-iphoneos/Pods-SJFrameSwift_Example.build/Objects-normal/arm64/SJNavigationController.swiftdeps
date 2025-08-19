@@ -1,0 +1,574 @@
+### Swift dependencies file v0 ###
+provides-top-level:
+- "SJNavigationController"
+provides-nominal:
+- "25Pods_SJFrameSwift_Example22SJNavigationControllerC"
+provides-member:
+- ["25Pods_SJFrameSwift_Example22SJNavigationControllerC", ""]
+provides-dynamic-lookup:
+- "didReceiveMemoryWarning"
+- "gestureRecognizerShouldBegin"
+- "setNavigationBarHidden"
+- "viewDidLoad"
+- "viewWillAppear"
+depends-top-level:
+- !private ">"
+- "AssignmentPrecedence"
+- "Bool"
+- !private "BooleanLiteralType"
+- !private "FloatLiteralType"
+- !private "IntegerLiteralType"
+- "PresentationDirection"
+- "SJNavigationController"
+- "SlideInPresentationManager"
+- "UIGestureRecognizer"
+- "UIGestureRecognizerDelegate"
+- "UINavigationController"
+- "Void"
+depends-member:
+- !private ["Sa", "count"]
+- !private ["SK", "count"]
+- ["s7CVarArgP", "SlideInPresentationManager"]
+- ["s7CVarArgP", ""]
+- !private ["s7CVarArgP", "count"]
+- !private ["s7CVarArgP", "delegate"]
+- !private ["s7CVarArgP", "didReceiveMemoryWarning"]
+- !private ["s7CVarArgP", "direction"]
+- !private ["s7CVarArgP", "disableCompactHeight"]
+- ["s7CVarArgP", "gestureRecognizer"]
+- ["s7CVarArgP", "gestureRecognizerShouldBegin"]
+- ["s7CVarArgP", "init"]
+- !private ["s7CVarArgP", "init"]
+- !private ["s7CVarArgP", "interactivePopGestureRecognizer"]
+- !private ["s7CVarArgP", "isNavigationBarHidden"]
+- !private ["s7CVarArgP", "modalPresentationStyle"]
+- !private ["s7CVarArgP", "setNavigationBarHidden"]
+- !private ["s7CVarArgP", "slideInTransitioningDelegate"]
+- !private ["s7CVarArgP", "transitioningDelegate"]
+- !private ["s7CVarArgP", "viewControllers"]
+- !private ["s7CVarArgP", "viewDidLoad"]
+- !private ["Sl", "count"]
+- !private ["10Foundation15ContiguousBytesP", "count"]
+- ["s28CustomDebugStringConvertibleP", "SlideInPresentationManager"]
+- ["s28CustomDebugStringConvertibleP", ""]
+- !private ["s28CustomDebugStringConvertibleP", "count"]
+- !private ["s28CustomDebugStringConvertibleP", "delegate"]
+- !private ["s28CustomDebugStringConvertibleP", "didReceiveMemoryWarning"]
+- !private ["s28CustomDebugStringConvertibleP", "direction"]
+- !private ["s28CustomDebugStringConvertibleP", "disableCompactHeight"]
+- ["s28CustomDebugStringConvertibleP", "gestureRecognizer"]
+- ["s28CustomDebugStringConvertibleP", "gestureRecognizerShouldBegin"]
+- ["s28CustomDebugStringConvertibleP", "init"]
+- !private ["s28CustomDebugStringConvertibleP", "init"]
+- !private ["s28CustomDebugStringConvertibleP", "interactivePopGestureRecognizer"]
+- !private ["s28CustomDebugStringConvertibleP", "isNavigationBarHidden"]
+- !private ["s28CustomDebugStringConvertibleP", "modalPresentationStyle"]
+- !private ["s28CustomDebugStringConvertibleP", "setNavigationBarHidden"]
+- !private ["s28CustomDebugStringConvertibleP", "slideInTransitioningDelegate"]
+- !private ["s28CustomDebugStringConvertibleP", "transitioningDelegate"]
+- !private ["s28CustomDebugStringConvertibleP", "viewControllers"]
+- !private ["s28CustomDebugStringConvertibleP", "viewDidLoad"]
+- !private ["s17CustomReflectableP", "count"]
+- ["s23CustomStringConvertibleP", "SlideInPresentationManager"]
+- ["s23CustomStringConvertibleP", ""]
+- !private ["s23CustomStringConvertibleP", "count"]
+- !private ["s23CustomStringConvertibleP", "delegate"]
+- !private ["s23CustomStringConvertibleP", "didReceiveMemoryWarning"]
+- !private ["s23CustomStringConvertibleP", "direction"]
+- !private ["s23CustomStringConvertibleP", "disableCompactHeight"]
+- ["s23CustomStringConvertibleP", "gestureRecognizer"]
+- ["s23CustomStringConvertibleP", "gestureRecognizerShouldBegin"]
+- ["s23CustomStringConvertibleP", "init"]
+- !private ["s23CustomStringConvertibleP", "init"]
+- !private ["s23CustomStringConvertibleP", "interactivePopGestureRecognizer"]
+- !private ["s23CustomStringConvertibleP", "isNavigationBarHidden"]
+- !private ["s23CustomStringConvertibleP", "modalPresentationStyle"]
+- !private ["s23CustomStringConvertibleP", "setNavigationBarHidden"]
+- !private ["s23CustomStringConvertibleP", "slideInTransitioningDelegate"]
+- !private ["s23CustomStringConvertibleP", "transitioningDelegate"]
+- !private ["s23CustomStringConvertibleP", "viewControllers"]
+- !private ["s23CustomStringConvertibleP", "viewDidLoad"]
+- !private ["10Foundation12DataProtocolP", "count"]
+- !private ["Se", "count"]
+- !private ["SE", "count"]
+- ["SQ", "SlideInPresentationManager"]
+- ["SQ", ""]
+- !private ["SQ", "count"]
+- !private ["SQ", "custom"]
+- !private ["SQ", "delegate"]
+- !private ["SQ", "didReceiveMemoryWarning"]
+- !private ["SQ", "direction"]
+- !private ["SQ", "disableCompactHeight"]
+- ["SQ", "gestureRecognizer"]
+- ["SQ", "gestureRecognizerShouldBegin"]
+- ["SQ", "init"]
+- !private ["SQ", "init"]
+- !private ["SQ", "interactivePopGestureRecognizer"]
+- !private ["SQ", "isNavigationBarHidden"]
+- !private ["SQ", "modalPresentationStyle"]
+- !private ["SQ", "setNavigationBarHidden"]
+- !private ["SQ", "slideInTransitioningDelegate"]
+- !private ["SQ", "transitioningDelegate"]
+- !private ["SQ", "viewControllers"]
+- !private ["SQ", "viewDidLoad"]
+- !private ["s25ExpressibleByArrayLiteralP", "count"]
+- ["SH", "SlideInPresentationManager"]
+- ["SH", ""]
+- !private ["SH", "count"]
+- !private ["SH", "custom"]
+- !private ["SH", "delegate"]
+- !private ["SH", "didReceiveMemoryWarning"]
+- !private ["SH", "direction"]
+- !private ["SH", "disableCompactHeight"]
+- ["SH", "gestureRecognizer"]
+- ["SH", "gestureRecognizerShouldBegin"]
+- ["SH", "init"]
+- !private ["SH", "init"]
+- !private ["SH", "interactivePopGestureRecognizer"]
+- !private ["SH", "isNavigationBarHidden"]
+- !private ["SH", "modalPresentationStyle"]
+- !private ["SH", "setNavigationBarHidden"]
+- !private ["SH", "slideInTransitioningDelegate"]
+- !private ["SH", "transitioningDelegate"]
+- !private ["SH", "viewControllers"]
+- !private ["SH", "viewDidLoad"]
+- !private ["SM", "count"]
+- !private ["10Foundation19MutableDataProtocolP", "count"]
+- ["So8NSCodingP", "SlideInPresentationManager"]
+- ["So8NSCodingP", ""]
+- !private ["So8NSCodingP", "didReceiveMemoryWarning"]
+- ["So8NSCodingP", "gestureRecognizer"]
+- ["So8NSCodingP", "gestureRecognizerShouldBegin"]
+- !private ["So8NSCodingP", "init"]
+- !private ["So8NSCodingP", "init"]
+- !private ["So8NSCodingP", "interactivePopGestureRecognizer"]
+- !private ["So8NSCodingP", "isNavigationBarHidden"]
+- !private ["So8NSCodingP", "modalPresentationStyle"]
+- !private ["So8NSCodingP", "setNavigationBarHidden"]
+- !private ["So8NSCodingP", "slideInTransitioningDelegate"]
+- !private ["So8NSCodingP", "transitioningDelegate"]
+- !private ["So8NSCodingP", "viewControllers"]
+- !private ["So8NSCodingP", "viewDidLoad"]
+- ["So26NSExtensionRequestHandlingP", "SlideInPresentationManager"]
+- ["So26NSExtensionRequestHandlingP", ""]
+- !private ["So26NSExtensionRequestHandlingP", "didReceiveMemoryWarning"]
+- ["So26NSExtensionRequestHandlingP", "gestureRecognizer"]
+- ["So26NSExtensionRequestHandlingP", "gestureRecognizerShouldBegin"]
+- !private ["So26NSExtensionRequestHandlingP", "init"]
+- !private ["So26NSExtensionRequestHandlingP", "init"]
+- !private ["So26NSExtensionRequestHandlingP", "interactivePopGestureRecognizer"]
+- !private ["So26NSExtensionRequestHandlingP", "isNavigationBarHidden"]
+- !private ["So26NSExtensionRequestHandlingP", "modalPresentationStyle"]
+- !private ["So26NSExtensionRequestHandlingP", "setNavigationBarHidden"]
+- !private ["So26NSExtensionRequestHandlingP", "slideInTransitioningDelegate"]
+- !private ["So26NSExtensionRequestHandlingP", "transitioningDelegate"]
+- !private ["So26NSExtensionRequestHandlingP", "viewControllers"]
+- !private ["So26NSExtensionRequestHandlingP", "viewDidLoad"]
+- ["So8NSObjectC", "$__lazy_storage_$_slideInTransitioningDelegate"]
+- ["So8NSObjectC", "Bool"]
+- ["So8NSObjectC", "PresentationDirection"]
+- ["So8NSObjectC", "SlideInPresentationManager"]
+- ["So8NSObjectC", "UIGestureRecognizer"]
+- ["So8NSObjectC", "Void"]
+- !private ["So8NSObjectC", "delegate"]
+- ["So8NSObjectC", "didReceiveMemoryWarning"]
+- !private ["So8NSObjectC", "direction"]
+- !private ["So8NSObjectC", "disableCompactHeight"]
+- ["So8NSObjectC", "gestureRecognizer"]
+- ["So8NSObjectC", "gestureRecognizerShouldBegin"]
+- ["So8NSObjectC", "init"]
+- !private ["So8NSObjectC", "init"]
+- !private ["So8NSObjectC", "interactivePopGestureRecognizer"]
+- !private ["So8NSObjectC", "isNavigationBarHidden"]
+- !private ["So8NSObjectC", "modalPresentationStyle"]
+- ["So8NSObjectC", "setNavigationBarHidden"]
+- ["So8NSObjectC", "setPresentStyle"]
+- ["So8NSObjectC", "slideInTransitioningDelegate"]
+- !private ["So8NSObjectC", "transitioningDelegate"]
+- !private ["So8NSObjectC", "viewControllers"]
+- ["So8NSObjectC", "viewDidLoad"]
+- ["So8NSObjectC", "viewWillAppear"]
+- ["So8NSObjectP", "SlideInPresentationManager"]
+- ["So8NSObjectP", ""]
+- !private ["So8NSObjectP", "delegate"]
+- !private ["So8NSObjectP", "didReceiveMemoryWarning"]
+- !private ["So8NSObjectP", "direction"]
+- !private ["So8NSObjectP", "disableCompactHeight"]
+- ["So8NSObjectP", "gestureRecognizer"]
+- ["So8NSObjectP", "gestureRecognizerShouldBegin"]
+- ["So8NSObjectP", "init"]
+- !private ["So8NSObjectP", "init"]
+- !private ["So8NSObjectP", "interactivePopGestureRecognizer"]
+- !private ["So8NSObjectP", "isNavigationBarHidden"]
+- !private ["So8NSObjectP", "modalPresentationStyle"]
+- !private ["So8NSObjectP", "setNavigationBarHidden"]
+- !private ["So8NSObjectP", "slideInTransitioningDelegate"]
+- !private ["So8NSObjectP", "transitioningDelegate"]
+- !private ["So8NSObjectP", "viewControllers"]
+- !private ["So8NSObjectP", "viewDidLoad"]
+- !private ["Sk", "count"]
+- !private ["Sm", "count"]
+- !private ["SY", "custom"]
+- !private ["25Pods_SJFrameSwift_Example22SJNavigationControllerC", "$__lazy_storage_$_slideInTransitioningDelegate"]
+- ["25Pods_SJFrameSwift_Example22SJNavigationControllerC", "Bool"]
+- ["25Pods_SJFrameSwift_Example22SJNavigationControllerC", "PresentationDirection"]
+- ["25Pods_SJFrameSwift_Example22SJNavigationControllerC", "SlideInPresentationManager"]
+- ["25Pods_SJFrameSwift_Example22SJNavigationControllerC", "UIGestureRecognizer"]
+- ["25Pods_SJFrameSwift_Example22SJNavigationControllerC", "Void"]
+- ["25Pods_SJFrameSwift_Example22SJNavigationControllerC", "deinit"]
+- ["25Pods_SJFrameSwift_Example22SJNavigationControllerC", "didReceiveMemoryWarning"]
+- ["25Pods_SJFrameSwift_Example22SJNavigationControllerC", "gestureRecognizer"]
+- ["25Pods_SJFrameSwift_Example22SJNavigationControllerC", "gestureRecognizerShouldBegin"]
+- ["25Pods_SJFrameSwift_Example22SJNavigationControllerC", "init"]
+- !private ["25Pods_SJFrameSwift_Example22SJNavigationControllerC", "interactivePopGestureRecognizer"]
+- !private ["25Pods_SJFrameSwift_Example22SJNavigationControllerC", "isNavigationBarHidden"]
+- !private ["25Pods_SJFrameSwift_Example22SJNavigationControllerC", "modalPresentationStyle"]
+- ["25Pods_SJFrameSwift_Example22SJNavigationControllerC", "setNavigationBarHidden"]
+- ["25Pods_SJFrameSwift_Example22SJNavigationControllerC", "setPresentStyle"]
+- ["25Pods_SJFrameSwift_Example22SJNavigationControllerC", "slideInTransitioningDelegate"]
+- !private ["25Pods_SJFrameSwift_Example22SJNavigationControllerC", "transitioningDelegate"]
+- !private ["25Pods_SJFrameSwift_Example22SJNavigationControllerC", "viewControllers"]
+- ["25Pods_SJFrameSwift_Example22SJNavigationControllerC", "viewDidLoad"]
+- ["25Pods_SJFrameSwift_Example22SJNavigationControllerC", "viewWillAppear"]
+- !private ["ST", "count"]
+- !private ["25Pods_SJFrameSwift_Example26SlideInPresentationManagerC", "deinit"]
+- !private ["25Pods_SJFrameSwift_Example26SlideInPresentationManagerC", "direction"]
+- !private ["25Pods_SJFrameSwift_Example26SlideInPresentationManagerC", "disableCompactHeight"]
+- ["25Pods_SJFrameSwift_Example26SlideInPresentationManagerC", "init"]
+- !private ["So40UIAdaptivePresentationControllerDelegateP", "direction"]
+- !private ["So40UIAdaptivePresentationControllerDelegateP", "disableCompactHeight"]
+- ["So40UIAdaptivePresentationControllerDelegateP", "init"]
+- ["So21UIAppearanceContainerP", "SlideInPresentationManager"]
+- ["So21UIAppearanceContainerP", ""]
+- !private ["So21UIAppearanceContainerP", "didReceiveMemoryWarning"]
+- ["So21UIAppearanceContainerP", "gestureRecognizer"]
+- ["So21UIAppearanceContainerP", "gestureRecognizerShouldBegin"]
+- !private ["So21UIAppearanceContainerP", "init"]
+- !private ["So21UIAppearanceContainerP", "init"]
+- !private ["So21UIAppearanceContainerP", "interactivePopGestureRecognizer"]
+- !private ["So21UIAppearanceContainerP", "isNavigationBarHidden"]
+- !private ["So21UIAppearanceContainerP", "modalPresentationStyle"]
+- !private ["So21UIAppearanceContainerP", "setNavigationBarHidden"]
+- !private ["So21UIAppearanceContainerP", "slideInTransitioningDelegate"]
+- !private ["So21UIAppearanceContainerP", "transitioningDelegate"]
+- !private ["So21UIAppearanceContainerP", "viewControllers"]
+- !private ["So21UIAppearanceContainerP", "viewDidLoad"]
+- ["So18UIContentContainerP", "SlideInPresentationManager"]
+- ["So18UIContentContainerP", ""]
+- !private ["So18UIContentContainerP", "didReceiveMemoryWarning"]
+- ["So18UIContentContainerP", "gestureRecognizer"]
+- ["So18UIContentContainerP", "gestureRecognizerShouldBegin"]
+- !private ["So18UIContentContainerP", "init"]
+- !private ["So18UIContentContainerP", "init"]
+- !private ["So18UIContentContainerP", "interactivePopGestureRecognizer"]
+- !private ["So18UIContentContainerP", "isNavigationBarHidden"]
+- !private ["So18UIContentContainerP", "modalPresentationStyle"]
+- !private ["So18UIContentContainerP", "setNavigationBarHidden"]
+- !private ["So18UIContentContainerP", "slideInTransitioningDelegate"]
+- !private ["So18UIContentContainerP", "transitioningDelegate"]
+- !private ["So18UIContentContainerP", "viewControllers"]
+- !private ["So18UIContentContainerP", "viewDidLoad"]
+- ["So18UIFocusEnvironmentP", "SlideInPresentationManager"]
+- ["So18UIFocusEnvironmentP", ""]
+- !private ["So18UIFocusEnvironmentP", "didReceiveMemoryWarning"]
+- ["So18UIFocusEnvironmentP", "gestureRecognizer"]
+- ["So18UIFocusEnvironmentP", "gestureRecognizerShouldBegin"]
+- !private ["So18UIFocusEnvironmentP", "init"]
+- !private ["So18UIFocusEnvironmentP", "init"]
+- !private ["So18UIFocusEnvironmentP", "interactivePopGestureRecognizer"]
+- !private ["So18UIFocusEnvironmentP", "isNavigationBarHidden"]
+- !private ["So18UIFocusEnvironmentP", "modalPresentationStyle"]
+- !private ["So18UIFocusEnvironmentP", "setNavigationBarHidden"]
+- !private ["So18UIFocusEnvironmentP", "slideInTransitioningDelegate"]
+- !private ["So18UIFocusEnvironmentP", "transitioningDelegate"]
+- !private ["So18UIFocusEnvironmentP", "viewControllers"]
+- !private ["So18UIFocusEnvironmentP", "viewDidLoad"]
+- !private ["So19UIGestureRecognizerC", "delegate"]
+- ["So27UIGestureRecognizerDelegateP", "SlideInPresentationManager"]
+- ["So27UIGestureRecognizerDelegateP", ""]
+- ["So27UIGestureRecognizerDelegateP", "gestureRecognizer"]
+- ["So27UIGestureRecognizerDelegateP", "gestureRecognizerShouldBegin"]
+- !private ["So27UIGestureRecognizerDelegateP", "interactivePopGestureRecognizer"]
+- !private ["So27UIGestureRecognizerDelegateP", "isNavigationBarHidden"]
+- !private ["So27UIGestureRecognizerDelegateP", "modalPresentationStyle"]
+- !private ["So27UIGestureRecognizerDelegateP", "slideInTransitioningDelegate"]
+- !private ["So27UIGestureRecognizerDelegateP", "transitioningDelegate"]
+- !private ["So27UIGestureRecognizerDelegateP", "viewControllers"]
+- !private ["So24UIModalPresentationStyleV", "custom"]
+- ["So22UINavigationControllerC", "$__lazy_storage_$_slideInTransitioningDelegate"]
+- ["So22UINavigationControllerC", "Bool"]
+- ["So22UINavigationControllerC", "PresentationDirection"]
+- ["So22UINavigationControllerC", "SlideInPresentationManager"]
+- ["So22UINavigationControllerC", "UIGestureRecognizer"]
+- ["So22UINavigationControllerC", "Void"]
+- ["So22UINavigationControllerC", ""]
+- ["So22UINavigationControllerC", "didReceiveMemoryWarning"]
+- ["So22UINavigationControllerC", "gestureRecognizer"]
+- ["So22UINavigationControllerC", "gestureRecognizerShouldBegin"]
+- ["So22UINavigationControllerC", "init"]
+- !private ["So22UINavigationControllerC", "init"]
+- !private ["So22UINavigationControllerC", "interactivePopGestureRecognizer"]
+- !private ["So22UINavigationControllerC", "isNavigationBarHidden"]
+- !private ["So22UINavigationControllerC", "modalPresentationStyle"]
+- ["So22UINavigationControllerC", "setNavigationBarHidden"]
+- ["So22UINavigationControllerC", "setPresentStyle"]
+- ["So22UINavigationControllerC", "slideInTransitioningDelegate"]
+- !private ["So22UINavigationControllerC", "transitioningDelegate"]
+- !private ["So22UINavigationControllerC", "viewControllers"]
+- ["So22UINavigationControllerC", "viewDidLoad"]
+- ["So22UINavigationControllerC", "viewWillAppear"]
+- ["So30UIPasteConfigurationSupportingP", "SlideInPresentationManager"]
+- ["So30UIPasteConfigurationSupportingP", ""]
+- !private ["So30UIPasteConfigurationSupportingP", "didReceiveMemoryWarning"]
+- ["So30UIPasteConfigurationSupportingP", "gestureRecognizer"]
+- ["So30UIPasteConfigurationSupportingP", "gestureRecognizerShouldBegin"]
+- !private ["So30UIPasteConfigurationSupportingP", "init"]
+- !private ["So30UIPasteConfigurationSupportingP", "init"]
+- !private ["So30UIPasteConfigurationSupportingP", "interactivePopGestureRecognizer"]
+- !private ["So30UIPasteConfigurationSupportingP", "isNavigationBarHidden"]
+- !private ["So30UIPasteConfigurationSupportingP", "modalPresentationStyle"]
+- !private ["So30UIPasteConfigurationSupportingP", "setNavigationBarHidden"]
+- !private ["So30UIPasteConfigurationSupportingP", "slideInTransitioningDelegate"]
+- !private ["So30UIPasteConfigurationSupportingP", "transitioningDelegate"]
+- !private ["So30UIPasteConfigurationSupportingP", "viewControllers"]
+- !private ["So30UIPasteConfigurationSupportingP", "viewDidLoad"]
+- ["So11UIResponderC", "$__lazy_storage_$_slideInTransitioningDelegate"]
+- ["So11UIResponderC", "Bool"]
+- ["So11UIResponderC", "PresentationDirection"]
+- ["So11UIResponderC", "SlideInPresentationManager"]
+- ["So11UIResponderC", "UIGestureRecognizer"]
+- ["So11UIResponderC", "Void"]
+- ["So11UIResponderC", "didReceiveMemoryWarning"]
+- ["So11UIResponderC", "gestureRecognizer"]
+- ["So11UIResponderC", "gestureRecognizerShouldBegin"]
+- ["So11UIResponderC", "init"]
+- !private ["So11UIResponderC", "init"]
+- !private ["So11UIResponderC", "interactivePopGestureRecognizer"]
+- !private ["So11UIResponderC", "isNavigationBarHidden"]
+- !private ["So11UIResponderC", "modalPresentationStyle"]
+- ["So11UIResponderC", "setNavigationBarHidden"]
+- ["So11UIResponderC", "setPresentStyle"]
+- ["So11UIResponderC", "slideInTransitioningDelegate"]
+- !private ["So11UIResponderC", "transitioningDelegate"]
+- !private ["So11UIResponderC", "viewControllers"]
+- ["So11UIResponderC", "viewDidLoad"]
+- ["So11UIResponderC", "viewWillAppear"]
+- ["So30UIResponderStandardEditActionsP", "SlideInPresentationManager"]
+- ["So30UIResponderStandardEditActionsP", ""]
+- !private ["So30UIResponderStandardEditActionsP", "didReceiveMemoryWarning"]
+- ["So30UIResponderStandardEditActionsP", "gestureRecognizer"]
+- ["So30UIResponderStandardEditActionsP", "gestureRecognizerShouldBegin"]
+- !private ["So30UIResponderStandardEditActionsP", "init"]
+- !private ["So30UIResponderStandardEditActionsP", "init"]
+- !private ["So30UIResponderStandardEditActionsP", "interactivePopGestureRecognizer"]
+- !private ["So30UIResponderStandardEditActionsP", "isNavigationBarHidden"]
+- !private ["So30UIResponderStandardEditActionsP", "modalPresentationStyle"]
+- !private ["So30UIResponderStandardEditActionsP", "setNavigationBarHidden"]
+- !private ["So30UIResponderStandardEditActionsP", "slideInTransitioningDelegate"]
+- !private ["So30UIResponderStandardEditActionsP", "transitioningDelegate"]
+- !private ["So30UIResponderStandardEditActionsP", "viewControllers"]
+- !private ["So30UIResponderStandardEditActionsP", "viewDidLoad"]
+- ["So16UIStateRestoringP", "SlideInPresentationManager"]
+- ["So16UIStateRestoringP", ""]
+- !private ["So16UIStateRestoringP", "didReceiveMemoryWarning"]
+- ["So16UIStateRestoringP", "gestureRecognizer"]
+- ["So16UIStateRestoringP", "gestureRecognizerShouldBegin"]
+- !private ["So16UIStateRestoringP", "init"]
+- !private ["So16UIStateRestoringP", "init"]
+- !private ["So16UIStateRestoringP", "interactivePopGestureRecognizer"]
+- !private ["So16UIStateRestoringP", "isNavigationBarHidden"]
+- !private ["So16UIStateRestoringP", "modalPresentationStyle"]
+- !private ["So16UIStateRestoringP", "setNavigationBarHidden"]
+- !private ["So16UIStateRestoringP", "slideInTransitioningDelegate"]
+- !private ["So16UIStateRestoringP", "transitioningDelegate"]
+- !private ["So16UIStateRestoringP", "viewControllers"]
+- !private ["So16UIStateRestoringP", "viewDidLoad"]
+- ["So18UITraitEnvironmentP", "SlideInPresentationManager"]
+- ["So18UITraitEnvironmentP", ""]
+- !private ["So18UITraitEnvironmentP", "didReceiveMemoryWarning"]
+- ["So18UITraitEnvironmentP", "gestureRecognizer"]
+- ["So18UITraitEnvironmentP", "gestureRecognizerShouldBegin"]
+- !private ["So18UITraitEnvironmentP", "init"]
+- !private ["So18UITraitEnvironmentP", "init"]
+- !private ["So18UITraitEnvironmentP", "interactivePopGestureRecognizer"]
+- !private ["So18UITraitEnvironmentP", "isNavigationBarHidden"]
+- !private ["So18UITraitEnvironmentP", "modalPresentationStyle"]
+- !private ["So18UITraitEnvironmentP", "setNavigationBarHidden"]
+- !private ["So18UITraitEnvironmentP", "slideInTransitioningDelegate"]
+- !private ["So18UITraitEnvironmentP", "transitioningDelegate"]
+- !private ["So18UITraitEnvironmentP", "viewControllers"]
+- !private ["So18UITraitEnvironmentP", "viewDidLoad"]
+- ["So23UIUserActivityRestoringP", "SlideInPresentationManager"]
+- ["So23UIUserActivityRestoringP", ""]
+- !private ["So23UIUserActivityRestoringP", "didReceiveMemoryWarning"]
+- ["So23UIUserActivityRestoringP", "gestureRecognizer"]
+- ["So23UIUserActivityRestoringP", "gestureRecognizerShouldBegin"]
+- !private ["So23UIUserActivityRestoringP", "init"]
+- !private ["So23UIUserActivityRestoringP", "init"]
+- !private ["So23UIUserActivityRestoringP", "interactivePopGestureRecognizer"]
+- !private ["So23UIUserActivityRestoringP", "isNavigationBarHidden"]
+- !private ["So23UIUserActivityRestoringP", "modalPresentationStyle"]
+- !private ["So23UIUserActivityRestoringP", "setNavigationBarHidden"]
+- !private ["So23UIUserActivityRestoringP", "slideInTransitioningDelegate"]
+- !private ["So23UIUserActivityRestoringP", "transitioningDelegate"]
+- !private ["So23UIUserActivityRestoringP", "viewControllers"]
+- !private ["So23UIUserActivityRestoringP", "viewDidLoad"]
+- ["So16UIViewControllerC", "$__lazy_storage_$_slideInTransitioningDelegate"]
+- ["So16UIViewControllerC", "Bool"]
+- ["So16UIViewControllerC", "PresentationDirection"]
+- ["So16UIViewControllerC", "SlideInPresentationManager"]
+- ["So16UIViewControllerC", "UIGestureRecognizer"]
+- ["So16UIViewControllerC", "Void"]
+- ["So16UIViewControllerC", "didReceiveMemoryWarning"]
+- ["So16UIViewControllerC", "gestureRecognizer"]
+- ["So16UIViewControllerC", "gestureRecognizerShouldBegin"]
+- ["So16UIViewControllerC", "init"]
+- !private ["So16UIViewControllerC", "init"]
+- !private ["So16UIViewControllerC", "interactivePopGestureRecognizer"]
+- !private ["So16UIViewControllerC", "isNavigationBarHidden"]
+- !private ["So16UIViewControllerC", "modalPresentationStyle"]
+- ["So16UIViewControllerC", "setNavigationBarHidden"]
+- ["So16UIViewControllerC", "setPresentStyle"]
+- ["So16UIViewControllerC", "slideInTransitioningDelegate"]
+- !private ["So16UIViewControllerC", "transitioningDelegate"]
+- !private ["So16UIViewControllerC", "viewControllers"]
+- ["So16UIViewControllerC", "viewDidLoad"]
+- ["So16UIViewControllerC", "viewWillAppear"]
+- !private ["So37UIViewControllerTransitioningDelegateP", "direction"]
+- !private ["So37UIViewControllerTransitioningDelegateP", "disableCompactHeight"]
+- ["So37UIViewControllerTransitioningDelegateP", "init"]
+- !private ["s14_ArrayProtocolP", "count"]
+- !private ["s24_DestructorSafeContainerP", "count"]
+- !private ["s19_HasContiguousBytesP", "count"]
+- !private ["s35_HasCustomAnyHashableRepresentationP", "count"]
+- ["10Foundation27_KeyValueCodingAndObservingP", "SlideInPresentationManager"]
+- ["10Foundation27_KeyValueCodingAndObservingP", ""]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "delegate"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "didReceiveMemoryWarning"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "direction"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "disableCompactHeight"]
+- ["10Foundation27_KeyValueCodingAndObservingP", "gestureRecognizer"]
+- ["10Foundation27_KeyValueCodingAndObservingP", "gestureRecognizerShouldBegin"]
+- ["10Foundation27_KeyValueCodingAndObservingP", "init"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "init"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "interactivePopGestureRecognizer"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "isNavigationBarHidden"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "modalPresentationStyle"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "setNavigationBarHidden"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "slideInTransitioningDelegate"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "transitioningDelegate"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "viewControllers"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "viewDidLoad"]
+- ["10Foundation37_KeyValueCodingAndObservingPublishingP", "SlideInPresentationManager"]
+- ["10Foundation37_KeyValueCodingAndObservingPublishingP", ""]
+- !private ["10Foundation37_KeyValueCodingAndObservingPublishingP", "delegate"]
+- !private ["10Foundation37_KeyValueCodingAndObservingPublishingP", "didReceiveMemoryWarning"]
+- !private ["10Foundation37_KeyValueCodingAndObservingPublishingP", "direction"]
+- !private ["10Foundation37_KeyValueCodingAndObservingPublishingP", "disableCompactHeight"]
+- ["10Foundation37_KeyValueCodingAndObservingPublishingP", "gestureRecognizer"]
+- ["10Foundation37_KeyValueCodingAndObservingPublishingP", "gestureRecognizerShouldBegin"]
+- ["10Foundation37_KeyValueCodingAndObservingPublishingP", "init"]
+- !private ["10Foundation37_KeyValueCodingAndObservingPublishingP", "init"]
+- !private ["10Foundation37_KeyValueCodingAndObservingPublishingP", "interactivePopGestureRecognizer"]
+- !private ["10Foundation37_KeyValueCodingAndObservingPublishingP", "isNavigationBarHidden"]
+- !private ["10Foundation37_KeyValueCodingAndObservingPublishingP", "modalPresentationStyle"]
+- !private ["10Foundation37_KeyValueCodingAndObservingPublishingP", "setNavigationBarHidden"]
+- !private ["10Foundation37_KeyValueCodingAndObservingPublishingP", "slideInTransitioningDelegate"]
+- !private ["10Foundation37_KeyValueCodingAndObservingPublishingP", "transitioningDelegate"]
+- !private ["10Foundation37_KeyValueCodingAndObservingPublishingP", "viewControllers"]
+- !private ["10Foundation37_KeyValueCodingAndObservingPublishingP", "viewDidLoad"]
+- !private ["s21_ObjectiveCBridgeableP", "count"]
+depends-nominal:
+- !private "Sa"
+- !private "SK"
+- "s7CVarArgP"
+- !private "Sl"
+- !private "10Foundation15ContiguousBytesP"
+- "s28CustomDebugStringConvertibleP"
+- !private "s17CustomReflectableP"
+- "s23CustomStringConvertibleP"
+- !private "10Foundation12DataProtocolP"
+- !private "Se"
+- !private "SE"
+- "SQ"
+- !private "s25ExpressibleByArrayLiteralP"
+- "SH"
+- !private "SM"
+- !private "10Foundation19MutableDataProtocolP"
+- "So8NSCodingP"
+- "So26NSExtensionRequestHandlingP"
+- "So8NSObjectC"
+- "So8NSObjectP"
+- !private "Sk"
+- !private "Sm"
+- !private "SY"
+- "25Pods_SJFrameSwift_Example22SJNavigationControllerC"
+- !private "ST"
+- "25Pods_SJFrameSwift_Example26SlideInPresentationManagerC"
+- "So40UIAdaptivePresentationControllerDelegateP"
+- "So21UIAppearanceContainerP"
+- "So18UIContentContainerP"
+- "So18UIFocusEnvironmentP"
+- !private "So19UIGestureRecognizerC"
+- "So27UIGestureRecognizerDelegateP"
+- !private "So24UIModalPresentationStyleV"
+- "So22UINavigationControllerC"
+- "So30UIPasteConfigurationSupportingP"
+- "So11UIResponderC"
+- "So30UIResponderStandardEditActionsP"
+- "So16UIStateRestoringP"
+- "So18UITraitEnvironmentP"
+- "So23UIUserActivityRestoringP"
+- "So16UIViewControllerC"
+- "So37UIViewControllerTransitioningDelegateP"
+- !private "s14_ArrayProtocolP"
+- !private "s24_DestructorSafeContainerP"
+- !private "s19_HasContiguousBytesP"
+- !private "s35_HasCustomAnyHashableRepresentationP"
+- "10Foundation27_KeyValueCodingAndObservingP"
+- "10Foundation37_KeyValueCodingAndObservingPublishingP"
+- !private "s21_ObjectiveCBridgeableP"
+depends-dynamic-lookup:
+depends-external:
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS13.2.sdk/usr/lib/swift/ObjectiveC.swiftmodule/arm64.swiftinterface"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS13.2.sdk/usr/lib/swift/CoreImage.swiftmodule/arm64.swiftinterface"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS13.2.sdk/usr/lib/swift/QuartzCore.swiftmodule/arm64.swiftinterface"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS13.2.sdk/usr/lib/swift/Dispatch.swiftmodule/arm64.swiftinterface"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS13.2.sdk/usr/lib/swift/Metal.swiftmodule/arm64.swiftinterface"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS13.2.sdk/usr/lib/swift/Darwin.swiftmodule/arm64.swiftinterface"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS13.2.sdk/usr/lib/swift/Foundation.swiftmodule/arm64.swiftinterface"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS13.2.sdk/usr/lib/swift/CoreFoundation.swiftmodule/arm64.swiftinterface"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS13.2.sdk/usr/lib/swift/CoreGraphics.swiftmodule/arm64.swiftinterface"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS13.2.sdk/usr/lib/swift/Swift.swiftmodule/arm64.swiftinterface"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS13.2.sdk/usr/lib/swift/UIKit.swiftmodule/arm64.swiftinterface"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS13.2.sdk/usr/lib/swift/SwiftOnoneSupport.swiftmodule/arm64.swiftinterface"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS13.2.sdk/System/Library/Frameworks/Combine.framework/Modules/Combine.swiftmodule/arm64-apple-ios.swiftinterface"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/prebuilt-modules/ObjectiveC.swiftmodule/arm64.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/prebuilt-modules/CoreImage.swiftmodule/arm64.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/prebuilt-modules/QuartzCore.swiftmodule/arm64.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/prebuilt-modules/Dispatch.swiftmodule/arm64.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/prebuilt-modules/Metal.swiftmodule/arm64.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/prebuilt-modules/Darwin.swiftmodule/arm64.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/prebuilt-modules/Foundation.swiftmodule/arm64.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/prebuilt-modules/CoreFoundation.swiftmodule/arm64.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/prebuilt-modules/CoreGraphics.swiftmodule/arm64.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/prebuilt-modules/Swift.swiftmodule/arm64.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/prebuilt-modules/UIKit.swiftmodule/arm64.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/prebuilt-modules/SwiftOnoneSupport.swiftmodule/arm64.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/prebuilt-modules/Combine.swiftmodule/arm64-apple-ios.swiftmodule"
+- "/Users/arun/Desktop/Projects/iOS /Git/GIT-Swift-Frame/SJFrameSwift/Example/Pods/Target Support Files/Pods-SJFrameSwift_Example/Pods-SJFrameSwift_Example-umbrella.h"
+- "/Users/arun/Desktop/Projects/iOS /Git/GIT-Swift-Frame/SJFrameSwift/Example/build/Pods.build/Debug-iphoneos/Pods-SJFrameSwift_Example.build/unextended-module.modulemap"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS13.2.sdk/usr/include/objc/ObjectiveC.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS13.2.sdk/System/Library/Frameworks/OpenGLES.framework/Headers/OpenGLES.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS13.2.sdk/System/Library/Frameworks/CoreImage.framework/Headers/CoreImage.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS13.2.sdk/System/Library/Frameworks/QuartzCore.framework/Headers/QuartzCore.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/apinotes/Dispatch.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS13.2.sdk/System/Library/Frameworks/Metal.framework/Headers/Metal.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS13.2.sdk/usr/include/Darwin.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS13.2.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS13.2.sdk/System/Library/Frameworks/CoreGraphics.framework/Headers/CoreGraphics.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS13.2.sdk/System/Library/Frameworks/UserNotifications.framework/Headers/UserNotifications.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS13.2.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS13.2.sdk/System/Library/Frameworks/CoreText.framework/Headers/CoreText.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS13.2.sdk/System/Library/Frameworks/Security.framework/Headers/Security.apinotes"
+interface-hash: "fc3df0828cf530eb580e48c9b4ef31e1"

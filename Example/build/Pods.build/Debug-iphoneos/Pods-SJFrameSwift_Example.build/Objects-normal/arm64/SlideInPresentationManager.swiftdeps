@@ -1,0 +1,461 @@
+### Swift dependencies file v0 ###
+provides-top-level:
+- "PresentationDirection"
+- "SlideInPresentationManager"
+provides-nominal:
+- "25Pods_SJFrameSwift_Example21PresentationDirectionO"
+- "25Pods_SJFrameSwift_Example26SlideInPresentationManagerC"
+provides-member:
+- ["25Pods_SJFrameSwift_Example21PresentationDirectionO", ""]
+- ["25Pods_SJFrameSwift_Example26SlideInPresentationManagerC", ""]
+provides-dynamic-lookup:
+- "adaptivePresentationStyle"
+- "animationController"
+- "presentationController"
+depends-top-level:
+- !private "&&"
+- "=="
+- "AssignmentPrecedence"
+- "BooleanLiteralType"
+- !private "FloatLiteralType"
+- !private "IntegerLiteralType"
+- "NSObject"
+- "PresentationDirection"
+- !private "SlideInPresentationAnimator"
+- !private "SlideInPresentationController"
+- "SlideInPresentationManager"
+- !private "StringLiteralType"
+- "UIAdaptivePresentationControllerDelegate"
+- "UIModalPresentationStyle"
+- "UIPresentationController"
+- !private "UIStoryboard"
+- "UITraitCollection"
+- "UIViewController"
+- "UIViewControllerAnimatedTransitioning"
+- "UIViewControllerTransitioningDelegate"
+depends-member:
+- ["s7CVarArgP", "PresentationDirection"]
+- !private ["s7CVarArgP", "SlideInPresentationAnimator"]
+- !private ["s7CVarArgP", "SlideInPresentationController"]
+- !private ["s7CVarArgP", "UIStoryboard"]
+- ["s7CVarArgP", ""]
+- ["s7CVarArgP", "adaptivePresentationStyle"]
+- ["s7CVarArgP", "adaptivePresentationStyleForPresentationController"]
+- ["s7CVarArgP", "animationController"]
+- ["s7CVarArgP", "animationControllerForDismissedController"]
+- ["s7CVarArgP", "animationControllerForPresentedController"]
+- !private ["s7CVarArgP", "delegate"]
+- !private ["s7CVarArgP", "direction"]
+- !private ["s7CVarArgP", "disableCompactHeight"]
+- !private ["s7CVarArgP", "init"]
+- !private ["s7CVarArgP", "init"]
+- !private ["s7CVarArgP", "instantiateViewController"]
+- ["s7CVarArgP", "interactionControllerForDismissal"]
+- ["s7CVarArgP", "interactionControllerForPresentation"]
+- ["s7CVarArgP", "presentationController"]
+- ["s7CVarArgP", "presentationControllerDidAttemptToDismiss"]
+- ["s7CVarArgP", "presentationControllerDidDismiss"]
+- ["s7CVarArgP", "presentationControllerForPresentedViewController"]
+- ["s7CVarArgP", "presentationControllerShouldDismiss"]
+- ["s7CVarArgP", "presentationControllerWillDismiss"]
+- !private ["s7CVarArgP", "verticalSizeClass"]
+- ["s28CustomDebugStringConvertibleP", "PresentationDirection"]
+- !private ["s28CustomDebugStringConvertibleP", "SlideInPresentationAnimator"]
+- !private ["s28CustomDebugStringConvertibleP", "SlideInPresentationController"]
+- !private ["s28CustomDebugStringConvertibleP", "UIStoryboard"]
+- ["s28CustomDebugStringConvertibleP", ""]
+- ["s28CustomDebugStringConvertibleP", "adaptivePresentationStyle"]
+- ["s28CustomDebugStringConvertibleP", "adaptivePresentationStyleForPresentationController"]
+- ["s28CustomDebugStringConvertibleP", "animationController"]
+- ["s28CustomDebugStringConvertibleP", "animationControllerForDismissedController"]
+- ["s28CustomDebugStringConvertibleP", "animationControllerForPresentedController"]
+- !private ["s28CustomDebugStringConvertibleP", "delegate"]
+- !private ["s28CustomDebugStringConvertibleP", "direction"]
+- !private ["s28CustomDebugStringConvertibleP", "disableCompactHeight"]
+- !private ["s28CustomDebugStringConvertibleP", "init"]
+- !private ["s28CustomDebugStringConvertibleP", "init"]
+- !private ["s28CustomDebugStringConvertibleP", "instantiateViewController"]
+- ["s28CustomDebugStringConvertibleP", "interactionControllerForDismissal"]
+- ["s28CustomDebugStringConvertibleP", "interactionControllerForPresentation"]
+- ["s28CustomDebugStringConvertibleP", "presentationController"]
+- ["s28CustomDebugStringConvertibleP", "presentationControllerDidAttemptToDismiss"]
+- ["s28CustomDebugStringConvertibleP", "presentationControllerDidDismiss"]
+- ["s28CustomDebugStringConvertibleP", "presentationControllerForPresentedViewController"]
+- ["s28CustomDebugStringConvertibleP", "presentationControllerShouldDismiss"]
+- ["s28CustomDebugStringConvertibleP", "presentationControllerWillDismiss"]
+- !private ["s28CustomDebugStringConvertibleP", "verticalSizeClass"]
+- ["s23CustomStringConvertibleP", "PresentationDirection"]
+- !private ["s23CustomStringConvertibleP", "SlideInPresentationAnimator"]
+- !private ["s23CustomStringConvertibleP", "SlideInPresentationController"]
+- !private ["s23CustomStringConvertibleP", "UIStoryboard"]
+- ["s23CustomStringConvertibleP", ""]
+- ["s23CustomStringConvertibleP", "adaptivePresentationStyle"]
+- ["s23CustomStringConvertibleP", "adaptivePresentationStyleForPresentationController"]
+- ["s23CustomStringConvertibleP", "animationController"]
+- ["s23CustomStringConvertibleP", "animationControllerForDismissedController"]
+- ["s23CustomStringConvertibleP", "animationControllerForPresentedController"]
+- !private ["s23CustomStringConvertibleP", "delegate"]
+- !private ["s23CustomStringConvertibleP", "direction"]
+- !private ["s23CustomStringConvertibleP", "disableCompactHeight"]
+- !private ["s23CustomStringConvertibleP", "init"]
+- !private ["s23CustomStringConvertibleP", "init"]
+- !private ["s23CustomStringConvertibleP", "instantiateViewController"]
+- ["s23CustomStringConvertibleP", "interactionControllerForDismissal"]
+- ["s23CustomStringConvertibleP", "interactionControllerForPresentation"]
+- ["s23CustomStringConvertibleP", "presentationController"]
+- ["s23CustomStringConvertibleP", "presentationControllerDidAttemptToDismiss"]
+- ["s23CustomStringConvertibleP", "presentationControllerDidDismiss"]
+- ["s23CustomStringConvertibleP", "presentationControllerForPresentedViewController"]
+- ["s23CustomStringConvertibleP", "presentationControllerShouldDismiss"]
+- ["s23CustomStringConvertibleP", "presentationControllerWillDismiss"]
+- !private ["s23CustomStringConvertibleP", "verticalSizeClass"]
+- ["SQ", "=="]
+- ["SQ", "PresentationDirection"]
+- !private ["SQ", "SlideInPresentationAnimator"]
+- !private ["SQ", "SlideInPresentationController"]
+- !private ["SQ", "UIStoryboard"]
+- ["SQ", ""]
+- ["SQ", "_rawHashValue"]
+- ["SQ", "adaptivePresentationStyle"]
+- ["SQ", "adaptivePresentationStyleForPresentationController"]
+- ["SQ", "animationController"]
+- ["SQ", "animationControllerForDismissedController"]
+- ["SQ", "animationControllerForPresentedController"]
+- !private ["SQ", "compact"]
+- !private ["SQ", "delegate"]
+- !private ["SQ", "direction"]
+- !private ["SQ", "disableCompactHeight"]
+- ["SQ", "hash"]
+- ["SQ", "hashValue"]
+- !private ["SQ", "init"]
+- !private ["SQ", "init"]
+- !private ["SQ", "instantiateViewController"]
+- ["SQ", "interactionControllerForDismissal"]
+- ["SQ", "interactionControllerForPresentation"]
+- ["SQ", "left"]
+- !private ["SQ", "none"]
+- ["SQ", "overFullScreen"]
+- ["SQ", "presentationController"]
+- ["SQ", "presentationControllerDidAttemptToDismiss"]
+- ["SQ", "presentationControllerDidDismiss"]
+- ["SQ", "presentationControllerForPresentedViewController"]
+- ["SQ", "presentationControllerShouldDismiss"]
+- ["SQ", "presentationControllerWillDismiss"]
+- !private ["SQ", "verticalSizeClass"]
+- ["SH", "=="]
+- ["SH", "PresentationDirection"]
+- !private ["SH", "SlideInPresentationAnimator"]
+- !private ["SH", "SlideInPresentationController"]
+- !private ["SH", "UIStoryboard"]
+- ["SH", ""]
+- ["SH", "_rawHashValue"]
+- ["SH", "adaptivePresentationStyle"]
+- ["SH", "adaptivePresentationStyleForPresentationController"]
+- ["SH", "animationController"]
+- ["SH", "animationControllerForDismissedController"]
+- ["SH", "animationControllerForPresentedController"]
+- !private ["SH", "compact"]
+- !private ["SH", "delegate"]
+- !private ["SH", "direction"]
+- !private ["SH", "disableCompactHeight"]
+- ["SH", "hash"]
+- ["SH", "hashValue"]
+- !private ["SH", "init"]
+- !private ["SH", "init"]
+- !private ["SH", "instantiateViewController"]
+- ["SH", "interactionControllerForDismissal"]
+- ["SH", "interactionControllerForPresentation"]
+- ["SH", "left"]
+- !private ["SH", "none"]
+- ["SH", "overFullScreen"]
+- ["SH", "presentationController"]
+- ["SH", "presentationControllerDidAttemptToDismiss"]
+- ["SH", "presentationControllerDidDismiss"]
+- ["SH", "presentationControllerForPresentedViewController"]
+- ["SH", "presentationControllerShouldDismiss"]
+- ["SH", "presentationControllerWillDismiss"]
+- !private ["SH", "verticalSizeClass"]
+- !private ["s6HasherV", "combine"]
+- !private ["So8NSCodingP", "verticalSizeClass"]
+- !private ["So9NSCopyingP", "verticalSizeClass"]
+- ["So8NSObjectC", "PresentationDirection"]
+- !private ["So8NSObjectC", "SlideInPresentationAnimator"]
+- !private ["So8NSObjectC", "SlideInPresentationController"]
+- ["So8NSObjectC", "UIModalPresentationStyle"]
+- ["So8NSObjectC", "UIPresentationController"]
+- !private ["So8NSObjectC", "UIStoryboard"]
+- ["So8NSObjectC", "UITraitCollection"]
+- ["So8NSObjectC", "UIViewController"]
+- ["So8NSObjectC", "UIViewControllerAnimatedTransitioning"]
+- ["So8NSObjectC", ""]
+- ["So8NSObjectC", "adaptivePresentationStyle"]
+- ["So8NSObjectC", "adaptivePresentationStyleForPresentationController"]
+- ["So8NSObjectC", "animationController"]
+- ["So8NSObjectC", "animationControllerForDismissedController"]
+- ["So8NSObjectC", "animationControllerForPresentedController"]
+- !private ["So8NSObjectC", "delegate"]
+- ["So8NSObjectC", "direction"]
+- ["So8NSObjectC", "disableCompactHeight"]
+- ["So8NSObjectC", "init"]
+- !private ["So8NSObjectC", "init"]
+- !private ["So8NSObjectC", "instantiateViewController"]
+- ["So8NSObjectC", "interactionControllerForDismissal"]
+- ["So8NSObjectC", "interactionControllerForPresentation"]
+- ["So8NSObjectC", "presentationController"]
+- ["So8NSObjectC", "presentationControllerDidAttemptToDismiss"]
+- ["So8NSObjectC", "presentationControllerDidDismiss"]
+- ["So8NSObjectC", "presentationControllerForPresentedViewController"]
+- ["So8NSObjectC", "presentationControllerShouldDismiss"]
+- ["So8NSObjectC", "presentationControllerWillDismiss"]
+- !private ["So8NSObjectC", "verticalSizeClass"]
+- ["So8NSObjectP", "PresentationDirection"]
+- !private ["So8NSObjectP", "SlideInPresentationAnimator"]
+- !private ["So8NSObjectP", "SlideInPresentationController"]
+- !private ["So8NSObjectP", "UIStoryboard"]
+- ["So8NSObjectP", ""]
+- ["So8NSObjectP", "adaptivePresentationStyle"]
+- ["So8NSObjectP", "adaptivePresentationStyleForPresentationController"]
+- ["So8NSObjectP", "animationController"]
+- ["So8NSObjectP", "animationControllerForDismissedController"]
+- ["So8NSObjectP", "animationControllerForPresentedController"]
+- !private ["So8NSObjectP", "delegate"]
+- !private ["So8NSObjectP", "direction"]
+- !private ["So8NSObjectP", "disableCompactHeight"]
+- !private ["So8NSObjectP", "init"]
+- !private ["So8NSObjectP", "init"]
+- !private ["So8NSObjectP", "instantiateViewController"]
+- ["So8NSObjectP", "interactionControllerForDismissal"]
+- ["So8NSObjectP", "interactionControllerForPresentation"]
+- ["So8NSObjectP", "presentationController"]
+- ["So8NSObjectP", "presentationControllerDidAttemptToDismiss"]
+- ["So8NSObjectP", "presentationControllerDidDismiss"]
+- ["So8NSObjectP", "presentationControllerForPresentedViewController"]
+- ["So8NSObjectP", "presentationControllerShouldDismiss"]
+- ["So8NSObjectP", "presentationControllerWillDismiss"]
+- !private ["So8NSObjectP", "verticalSizeClass"]
+- !private ["So14NSSecureCodingP", "verticalSizeClass"]
+- ["25Pods_SJFrameSwift_Example21PresentationDirectionO", "=="]
+- ["25Pods_SJFrameSwift_Example21PresentationDirectionO", "__derived_enum_equals"]
+- ["25Pods_SJFrameSwift_Example21PresentationDirectionO", "_rawHashValue"]
+- ["25Pods_SJFrameSwift_Example21PresentationDirectionO", "bottom"]
+- ["25Pods_SJFrameSwift_Example21PresentationDirectionO", "deinit"]
+- ["25Pods_SJFrameSwift_Example21PresentationDirectionO", "hash"]
+- ["25Pods_SJFrameSwift_Example21PresentationDirectionO", "hashValue"]
+- ["25Pods_SJFrameSwift_Example21PresentationDirectionO", "left"]
+- ["25Pods_SJFrameSwift_Example21PresentationDirectionO", "none"]
+- ["25Pods_SJFrameSwift_Example21PresentationDirectionO", "right"]
+- ["25Pods_SJFrameSwift_Example21PresentationDirectionO", "top"]
+- !private ["SY", "compact"]
+- !private ["SY", "none"]
+- ["SY", "overFullScreen"]
+- !private ["25Pods_SJFrameSwift_Example27SlideInPresentationAnimatorC", "deinit"]
+- !private ["25Pods_SJFrameSwift_Example27SlideInPresentationAnimatorC", "init"]
+- !private ["25Pods_SJFrameSwift_Example29SlideInPresentationControllerC", "delegate"]
+- !private ["25Pods_SJFrameSwift_Example29SlideInPresentationControllerC", "init"]
+- ["25Pods_SJFrameSwift_Example26SlideInPresentationManagerC", "PresentationDirection"]
+- !private ["25Pods_SJFrameSwift_Example26SlideInPresentationManagerC", "SlideInPresentationAnimator"]
+- !private ["25Pods_SJFrameSwift_Example26SlideInPresentationManagerC", "SlideInPresentationController"]
+- ["25Pods_SJFrameSwift_Example26SlideInPresentationManagerC", "UIModalPresentationStyle"]
+- ["25Pods_SJFrameSwift_Example26SlideInPresentationManagerC", "UIPresentationController"]
+- !private ["25Pods_SJFrameSwift_Example26SlideInPresentationManagerC", "UIStoryboard"]
+- ["25Pods_SJFrameSwift_Example26SlideInPresentationManagerC", "UITraitCollection"]
+- ["25Pods_SJFrameSwift_Example26SlideInPresentationManagerC", "UIViewController"]
+- ["25Pods_SJFrameSwift_Example26SlideInPresentationManagerC", "UIViewControllerAnimatedTransitioning"]
+- ["25Pods_SJFrameSwift_Example26SlideInPresentationManagerC", "adaptivePresentationStyle"]
+- ["25Pods_SJFrameSwift_Example26SlideInPresentationManagerC", "adaptivePresentationStyleForPresentationController"]
+- ["25Pods_SJFrameSwift_Example26SlideInPresentationManagerC", "animationController"]
+- ["25Pods_SJFrameSwift_Example26SlideInPresentationManagerC", "animationControllerForDismissedController"]
+- ["25Pods_SJFrameSwift_Example26SlideInPresentationManagerC", "animationControllerForPresentedController"]
+- ["25Pods_SJFrameSwift_Example26SlideInPresentationManagerC", "deinit"]
+- ["25Pods_SJFrameSwift_Example26SlideInPresentationManagerC", "direction"]
+- ["25Pods_SJFrameSwift_Example26SlideInPresentationManagerC", "disableCompactHeight"]
+- ["25Pods_SJFrameSwift_Example26SlideInPresentationManagerC", "init"]
+- ["25Pods_SJFrameSwift_Example26SlideInPresentationManagerC", "interactionControllerForDismissal"]
+- ["25Pods_SJFrameSwift_Example26SlideInPresentationManagerC", "interactionControllerForPresentation"]
+- ["25Pods_SJFrameSwift_Example26SlideInPresentationManagerC", "presentationController"]
+- ["25Pods_SJFrameSwift_Example26SlideInPresentationManagerC", "presentationControllerDidAttemptToDismiss"]
+- ["25Pods_SJFrameSwift_Example26SlideInPresentationManagerC", "presentationControllerDidDismiss"]
+- ["25Pods_SJFrameSwift_Example26SlideInPresentationManagerC", "presentationControllerForPresentedViewController"]
+- ["25Pods_SJFrameSwift_Example26SlideInPresentationManagerC", "presentationControllerShouldDismiss"]
+- ["25Pods_SJFrameSwift_Example26SlideInPresentationManagerC", "presentationControllerWillDismiss"]
+- ["So40UIAdaptivePresentationControllerDelegateP", "PresentationDirection"]
+- !private ["So40UIAdaptivePresentationControllerDelegateP", "SlideInPresentationAnimator"]
+- !private ["So40UIAdaptivePresentationControllerDelegateP", "SlideInPresentationController"]
+- !private ["So40UIAdaptivePresentationControllerDelegateP", "UIStoryboard"]
+- ["So40UIAdaptivePresentationControllerDelegateP", ""]
+- ["So40UIAdaptivePresentationControllerDelegateP", "adaptivePresentationStyle"]
+- ["So40UIAdaptivePresentationControllerDelegateP", "adaptivePresentationStyleForPresentationController"]
+- ["So40UIAdaptivePresentationControllerDelegateP", "animationController"]
+- ["So40UIAdaptivePresentationControllerDelegateP", "animationControllerForDismissedController"]
+- ["So40UIAdaptivePresentationControllerDelegateP", "animationControllerForPresentedController"]
+- !private ["So40UIAdaptivePresentationControllerDelegateP", "direction"]
+- !private ["So40UIAdaptivePresentationControllerDelegateP", "disableCompactHeight"]
+- ["So40UIAdaptivePresentationControllerDelegateP", "interactionControllerForDismissal"]
+- ["So40UIAdaptivePresentationControllerDelegateP", "interactionControllerForPresentation"]
+- ["So40UIAdaptivePresentationControllerDelegateP", "presentationController"]
+- ["So40UIAdaptivePresentationControllerDelegateP", "presentationControllerDidAttemptToDismiss"]
+- ["So40UIAdaptivePresentationControllerDelegateP", "presentationControllerDidDismiss"]
+- ["So40UIAdaptivePresentationControllerDelegateP", "presentationControllerForPresentedViewController"]
+- ["So40UIAdaptivePresentationControllerDelegateP", "presentationControllerShouldDismiss"]
+- ["So40UIAdaptivePresentationControllerDelegateP", "presentationControllerWillDismiss"]
+- !private ["So21UIAppearanceContainerP", "delegate"]
+- !private ["So21UIAppearanceContainerP", "init"]
+- !private ["So18UIContentContainerP", "delegate"]
+- !private ["So18UIContentContainerP", "init"]
+- !private ["So18UIFocusEnvironmentP", "delegate"]
+- !private ["So18UIFocusEnvironmentP", "init"]
+- !private ["So24UIModalPresentationStyleV", "none"]
+- ["So24UIModalPresentationStyleV", "overFullScreen"]
+- !private ["So24UIPresentationControllerC", "delegate"]
+- !private ["So12UIStoryboardC", "init"]
+- !private ["So12UIStoryboardC", "instantiateViewController"]
+- !private ["So17UITraitCollectionC", "verticalSizeClass"]
+- !private ["So18UITraitEnvironmentP", "delegate"]
+- !private ["So18UITraitEnvironmentP", "init"]
+- !private ["So24UIUserInterfaceSizeClassV", "compact"]
+- !private ["So37UIViewControllerAnimatedTransitioningP", "init"]
+- ["So37UIViewControllerTransitioningDelegateP", "PresentationDirection"]
+- !private ["So37UIViewControllerTransitioningDelegateP", "SlideInPresentationAnimator"]
+- !private ["So37UIViewControllerTransitioningDelegateP", "SlideInPresentationController"]
+- !private ["So37UIViewControllerTransitioningDelegateP", "UIStoryboard"]
+- ["So37UIViewControllerTransitioningDelegateP", ""]
+- ["So37UIViewControllerTransitioningDelegateP", "adaptivePresentationStyle"]
+- ["So37UIViewControllerTransitioningDelegateP", "adaptivePresentationStyleForPresentationController"]
+- ["So37UIViewControllerTransitioningDelegateP", "animationController"]
+- ["So37UIViewControllerTransitioningDelegateP", "animationControllerForDismissedController"]
+- ["So37UIViewControllerTransitioningDelegateP", "animationControllerForPresentedController"]
+- !private ["So37UIViewControllerTransitioningDelegateP", "direction"]
+- !private ["So37UIViewControllerTransitioningDelegateP", "disableCompactHeight"]
+- ["So37UIViewControllerTransitioningDelegateP", "interactionControllerForDismissal"]
+- ["So37UIViewControllerTransitioningDelegateP", "interactionControllerForPresentation"]
+- ["So37UIViewControllerTransitioningDelegateP", "presentationController"]
+- ["So37UIViewControllerTransitioningDelegateP", "presentationControllerDidAttemptToDismiss"]
+- ["So37UIViewControllerTransitioningDelegateP", "presentationControllerDidDismiss"]
+- ["So37UIViewControllerTransitioningDelegateP", "presentationControllerForPresentedViewController"]
+- ["So37UIViewControllerTransitioningDelegateP", "presentationControllerShouldDismiss"]
+- ["So37UIViewControllerTransitioningDelegateP", "presentationControllerWillDismiss"]
+- ["10Foundation27_KeyValueCodingAndObservingP", "PresentationDirection"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "SlideInPresentationAnimator"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "SlideInPresentationController"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "UIStoryboard"]
+- ["10Foundation27_KeyValueCodingAndObservingP", ""]
+- ["10Foundation27_KeyValueCodingAndObservingP", "adaptivePresentationStyle"]
+- ["10Foundation27_KeyValueCodingAndObservingP", "adaptivePresentationStyleForPresentationController"]
+- ["10Foundation27_KeyValueCodingAndObservingP", "animationController"]
+- ["10Foundation27_KeyValueCodingAndObservingP", "animationControllerForDismissedController"]
+- ["10Foundation27_KeyValueCodingAndObservingP", "animationControllerForPresentedController"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "delegate"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "direction"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "disableCompactHeight"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "init"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "init"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "instantiateViewController"]
+- ["10Foundation27_KeyValueCodingAndObservingP", "interactionControllerForDismissal"]
+- ["10Foundation27_KeyValueCodingAndObservingP", "interactionControllerForPresentation"]
+- ["10Foundation27_KeyValueCodingAndObservingP", "presentationController"]
+- ["10Foundation27_KeyValueCodingAndObservingP", "presentationControllerDidAttemptToDismiss"]
+- ["10Foundation27_KeyValueCodingAndObservingP", "presentationControllerDidDismiss"]
+- ["10Foundation27_KeyValueCodingAndObservingP", "presentationControllerForPresentedViewController"]
+- ["10Foundation27_KeyValueCodingAndObservingP", "presentationControllerShouldDismiss"]
+- ["10Foundation27_KeyValueCodingAndObservingP", "presentationControllerWillDismiss"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "verticalSizeClass"]
+- ["10Foundation37_KeyValueCodingAndObservingPublishingP", "PresentationDirection"]
+- !private ["10Foundation37_KeyValueCodingAndObservingPublishingP", "SlideInPresentationAnimator"]
+- !private ["10Foundation37_KeyValueCodingAndObservingPublishingP", "SlideInPresentationController"]
+- !private ["10Foundation37_KeyValueCodingAndObservingPublishingP", "UIStoryboard"]
+- ["10Foundation37_KeyValueCodingAndObservingPublishingP", ""]
+- ["10Foundation37_KeyValueCodingAndObservingPublishingP", "adaptivePresentationStyle"]
+- ["10Foundation37_KeyValueCodingAndObservingPublishingP", "adaptivePresentationStyleForPresentationController"]
+- ["10Foundation37_KeyValueCodingAndObservingPublishingP", "animationController"]
+- ["10Foundation37_KeyValueCodingAndObservingPublishingP", "animationControllerForDismissedController"]
+- ["10Foundation37_KeyValueCodingAndObservingPublishingP", "animationControllerForPresentedController"]
+- !private ["10Foundation37_KeyValueCodingAndObservingPublishingP", "delegate"]
+- !private ["10Foundation37_KeyValueCodingAndObservingPublishingP", "direction"]
+- !private ["10Foundation37_KeyValueCodingAndObservingPublishingP", "disableCompactHeight"]
+- !private ["10Foundation37_KeyValueCodingAndObservingPublishingP", "init"]
+- !private ["10Foundation37_KeyValueCodingAndObservingPublishingP", "init"]
+- !private ["10Foundation37_KeyValueCodingAndObservingPublishingP", "instantiateViewController"]
+- ["10Foundation37_KeyValueCodingAndObservingPublishingP", "interactionControllerForDismissal"]
+- ["10Foundation37_KeyValueCodingAndObservingPublishingP", "interactionControllerForPresentation"]
+- ["10Foundation37_KeyValueCodingAndObservingPublishingP", "presentationController"]
+- ["10Foundation37_KeyValueCodingAndObservingPublishingP", "presentationControllerDidAttemptToDismiss"]
+- ["10Foundation37_KeyValueCodingAndObservingPublishingP", "presentationControllerDidDismiss"]
+- ["10Foundation37_KeyValueCodingAndObservingPublishingP", "presentationControllerForPresentedViewController"]
+- ["10Foundation37_KeyValueCodingAndObservingPublishingP", "presentationControllerShouldDismiss"]
+- ["10Foundation37_KeyValueCodingAndObservingPublishingP", "presentationControllerWillDismiss"]
+- !private ["10Foundation37_KeyValueCodingAndObservingPublishingP", "verticalSizeClass"]
+depends-nominal:
+- "s7CVarArgP"
+- "s28CustomDebugStringConvertibleP"
+- "s23CustomStringConvertibleP"
+- "SQ"
+- "SH"
+- !private "s6HasherV"
+- !private "So8NSCodingP"
+- !private "So9NSCopyingP"
+- "So8NSObjectC"
+- "So8NSObjectP"
+- !private "So14NSSecureCodingP"
+- "25Pods_SJFrameSwift_Example21PresentationDirectionO"
+- "SY"
+- !private "25Pods_SJFrameSwift_Example27SlideInPresentationAnimatorC"
+- !private "25Pods_SJFrameSwift_Example29SlideInPresentationControllerC"
+- "25Pods_SJFrameSwift_Example26SlideInPresentationManagerC"
+- "So40UIAdaptivePresentationControllerDelegateP"
+- !private "So21UIAppearanceContainerP"
+- !private "So18UIContentContainerP"
+- !private "So18UIFocusEnvironmentP"
+- "So24UIModalPresentationStyleV"
+- !private "So24UIPresentationControllerC"
+- !private "So12UIStoryboardC"
+- !private "So17UITraitCollectionC"
+- !private "So18UITraitEnvironmentP"
+- !private "So24UIUserInterfaceSizeClassV"
+- !private "So37UIViewControllerAnimatedTransitioningP"
+- "So37UIViewControllerTransitioningDelegateP"
+- "10Foundation27_KeyValueCodingAndObservingP"
+- "10Foundation37_KeyValueCodingAndObservingPublishingP"
+depends-dynamic-lookup:
+depends-external:
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS13.2.sdk/usr/lib/swift/ObjectiveC.swiftmodule/arm64.swiftinterface"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS13.2.sdk/usr/lib/swift/CoreImage.swiftmodule/arm64.swiftinterface"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS13.2.sdk/usr/lib/swift/QuartzCore.swiftmodule/arm64.swiftinterface"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS13.2.sdk/usr/lib/swift/Dispatch.swiftmodule/arm64.swiftinterface"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS13.2.sdk/usr/lib/swift/Metal.swiftmodule/arm64.swiftinterface"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS13.2.sdk/usr/lib/swift/Darwin.swiftmodule/arm64.swiftinterface"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS13.2.sdk/usr/lib/swift/Foundation.swiftmodule/arm64.swiftinterface"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS13.2.sdk/usr/lib/swift/CoreFoundation.swiftmodule/arm64.swiftinterface"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS13.2.sdk/usr/lib/swift/CoreGraphics.swiftmodule/arm64.swiftinterface"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS13.2.sdk/usr/lib/swift/Swift.swiftmodule/arm64.swiftinterface"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS13.2.sdk/usr/lib/swift/UIKit.swiftmodule/arm64.swiftinterface"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS13.2.sdk/usr/lib/swift/SwiftOnoneSupport.swiftmodule/arm64.swiftinterface"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS13.2.sdk/System/Library/Frameworks/Combine.framework/Modules/Combine.swiftmodule/arm64-apple-ios.swiftinterface"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/prebuilt-modules/ObjectiveC.swiftmodule/arm64.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/prebuilt-modules/CoreImage.swiftmodule/arm64.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/prebuilt-modules/QuartzCore.swiftmodule/arm64.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/prebuilt-modules/Dispatch.swiftmodule/arm64.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/prebuilt-modules/Metal.swiftmodule/arm64.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/prebuilt-modules/Darwin.swiftmodule/arm64.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/prebuilt-modules/Foundation.swiftmodule/arm64.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/prebuilt-modules/CoreFoundation.swiftmodule/arm64.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/prebuilt-modules/CoreGraphics.swiftmodule/arm64.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/prebuilt-modules/Swift.swiftmodule/arm64.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/prebuilt-modules/UIKit.swiftmodule/arm64.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/prebuilt-modules/SwiftOnoneSupport.swiftmodule/arm64.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/prebuilt-modules/Combine.swiftmodule/arm64-apple-ios.swiftmodule"
+- "/Users/arun/Desktop/Projects/iOS /Git/GIT-Swift-Frame/SJFrameSwift/Example/Pods/Target Support Files/Pods-SJFrameSwift_Example/Pods-SJFrameSwift_Example-umbrella.h"
+- "/Users/arun/Desktop/Projects/iOS /Git/GIT-Swift-Frame/SJFrameSwift/Example/build/Pods.build/Debug-iphoneos/Pods-SJFrameSwift_Example.build/unextended-module.modulemap"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS13.2.sdk/usr/include/objc/ObjectiveC.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS13.2.sdk/System/Library/Frameworks/OpenGLES.framework/Headers/OpenGLES.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS13.2.sdk/System/Library/Frameworks/CoreImage.framework/Headers/CoreImage.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS13.2.sdk/System/Library/Frameworks/QuartzCore.framework/Headers/QuartzCore.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/apinotes/Dispatch.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS13.2.sdk/System/Library/Frameworks/Metal.framework/Headers/Metal.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS13.2.sdk/usr/include/Darwin.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS13.2.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS13.2.sdk/System/Library/Frameworks/CoreGraphics.framework/Headers/CoreGraphics.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS13.2.sdk/System/Library/Frameworks/UserNotifications.framework/Headers/UserNotifications.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS13.2.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS13.2.sdk/System/Library/Frameworks/CoreText.framework/Headers/CoreText.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS13.2.sdk/System/Library/Frameworks/Security.framework/Headers/Security.apinotes"
+interface-hash: "633333d7aa43ac358e86dcef251b38d3"

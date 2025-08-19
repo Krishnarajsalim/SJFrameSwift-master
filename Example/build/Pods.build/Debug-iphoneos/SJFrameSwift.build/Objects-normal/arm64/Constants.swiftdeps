@@ -1,0 +1,739 @@
+### Swift dependencies file v0 ###
+provides-top-level:
+- "ConstantString"
+- "SJFrame"
+- "CheckInternet"
+provides-nominal:
+- "12SJFrameSwift14ConstantStringV"
+- "12SJFrameSwift0A0C"
+- "12SJFrameSwift13CheckInternetC"
+provides-member:
+- ["12SJFrameSwift14ConstantStringV", ""]
+- ["12SJFrameSwift0A0C", ""]
+- ["12SJFrameSwift13CheckInternetC", ""]
+- ["12SJFrameSwift16SJViewControllerC", ""]
+- ["So11UITextFieldC", ""]
+- ["12SJFrameSwift16SJViewControllerC", "setAwakeFromNib"]
+- ["So11UITextFieldC", "placeHolderColor"]
+provides-dynamic-lookup:
+- "placeHolderColor"
+depends-top-level:
+- !private "!"
+- !private "!="
+- !private "&"
+- !private "&&"
+- !private "=="
+- !private "AF_INET"
+- "AssignmentPrecedence"
+- "Bool"
+- "BooleanLiteralType"
+- "CheckInternet"
+- "ConstantString"
+- "FloatLiteralType"
+- "Int"
+- "IntegerLiteralType"
+- !private "MemoryLayout"
+- !private "NSAttributedString"
+- !private "SCNetworkReachabilityCreateWithAddress"
+- !private "SCNetworkReachabilityFlags"
+- !private "SCNetworkReachabilityGetFlags"
+- "SJFrame"
+- !private "SJLocalisedString"
+- "SJViewController"
+- "String"
+- "StringLiteralType"
+- "TernaryPrecedence"
+- "UIColor"
+- "UITextField"
+- !private "UInt32"
+- !private "UInt8"
+- "UnicodeScalarType"
+- !private "in_addr"
+- !private "kSCNetworkFlagsConnectionRequired"
+- !private "kSCNetworkFlagsReachable"
+- !private "sa_family_t"
+- !private "sockaddr"
+- !private "sockaddr_in"
+- !private "withUnsafePointer"
+depends-member:
+- !private ["s18AdditiveArithmeticP", "init"]
+- !private ["SK", "lowercased"]
+- !private ["Sz", "init"]
+- !private ["So15CALayerDelegateP", "NSAttributedString"]
+- !private ["So15CALayerDelegateP", "attributedPlaceholder"]
+- !private ["So15CALayerDelegateP", "placeHolderColor"]
+- !private ["So15CALayerDelegateP", "placeholder"]
+- !private ["So15CALayerDelegateP", "semanticContentAttribute"]
+- !private ["s7CVarArgP", "Key"]
+- !private ["s7CVarArgP", "NSAttributedString"]
+- !private ["s7CVarArgP", "SJFrame"]
+- !private ["s7CVarArgP", "SJLocalisedString"]
+- !private ["s7CVarArgP", "attributedPlaceholder"]
+- ["s7CVarArgP", "init"]
+- ["s7CVarArgP", "lightGray"]
+- !private ["s7CVarArgP", "lowercased"]
+- !private ["s7CVarArgP", "navigationBar"]
+- !private ["s7CVarArgP", "navigationController"]
+- !private ["s7CVarArgP", "placeHolderColor"]
+- !private ["s7CVarArgP", "placeholder"]
+- ["s7CVarArgP", "red"]
+- !private ["s7CVarArgP", "semanticContentAttribute"]
+- !private ["s7CVarArgP", "view"]
+- ["s7CVarArgP", "white"]
+- !private ["s7CVarArgP", "withMemoryRebound"]
+- !private ["12SJFrameSwift13CheckInternetC", "AF_INET"]
+- ["12SJFrameSwift13CheckInternetC", "Bool"]
+- ["12SJFrameSwift13CheckInternetC", "Connection"]
+- !private ["12SJFrameSwift13CheckInternetC", "MemoryLayout"]
+- !private ["12SJFrameSwift13CheckInternetC", "SCNetworkReachabilityCreateWithAddress"]
+- !private ["12SJFrameSwift13CheckInternetC", "SCNetworkReachabilityFlags"]
+- !private ["12SJFrameSwift13CheckInternetC", "SCNetworkReachabilityGetFlags"]
+- !private ["12SJFrameSwift13CheckInternetC", "UInt32"]
+- !private ["12SJFrameSwift13CheckInternetC", "UInt8"]
+- !private ["12SJFrameSwift13CheckInternetC", "in_addr"]
+- ["12SJFrameSwift13CheckInternetC", "init"]
+- !private ["12SJFrameSwift13CheckInternetC", "kSCNetworkFlagsConnectionRequired"]
+- !private ["12SJFrameSwift13CheckInternetC", "kSCNetworkFlagsReachable"]
+- !private ["12SJFrameSwift13CheckInternetC", "sa_family_t"]
+- !private ["12SJFrameSwift13CheckInternetC", "sockaddr"]
+- !private ["12SJFrameSwift13CheckInternetC", "sockaddr_in"]
+- !private ["12SJFrameSwift13CheckInternetC", "withUnsafePointer"]
+- !private ["Sl", "lowercased"]
+- !private ["SL", "init"]
+- !private ["SL", "lowercased"]
+- !private ["SL", "withMemoryRebound"]
+- ["12SJFrameSwift14ConstantStringV", "String"]
+- ["12SJFrameSwift14ConstantStringV", "init"]
+- ["12SJFrameSwift14ConstantStringV", "k_EMPTY"]
+- ["12SJFrameSwift14ConstantStringV", "k_EMPTY_SINGLE_SPACE"]
+- !private ["s28CustomDebugStringConvertibleP", "Key"]
+- !private ["s28CustomDebugStringConvertibleP", "NSAttributedString"]
+- !private ["s28CustomDebugStringConvertibleP", "SJFrame"]
+- !private ["s28CustomDebugStringConvertibleP", "SJLocalisedString"]
+- !private ["s28CustomDebugStringConvertibleP", "attributedPlaceholder"]
+- ["s28CustomDebugStringConvertibleP", "init"]
+- ["s28CustomDebugStringConvertibleP", "lightGray"]
+- !private ["s28CustomDebugStringConvertibleP", "lowercased"]
+- !private ["s28CustomDebugStringConvertibleP", "navigationBar"]
+- !private ["s28CustomDebugStringConvertibleP", "navigationController"]
+- !private ["s28CustomDebugStringConvertibleP", "placeHolderColor"]
+- !private ["s28CustomDebugStringConvertibleP", "placeholder"]
+- ["s28CustomDebugStringConvertibleP", "red"]
+- !private ["s28CustomDebugStringConvertibleP", "semanticContentAttribute"]
+- !private ["s28CustomDebugStringConvertibleP", "view"]
+- ["s28CustomDebugStringConvertibleP", "white"]
+- !private ["s28CustomDebugStringConvertibleP", "withMemoryRebound"]
+- !private ["s17CustomReflectableP", "init"]
+- !private ["s17CustomReflectableP", "lowercased"]
+- !private ["s17CustomReflectableP", "semanticContentAttribute"]
+- !private ["s17CustomReflectableP", "withMemoryRebound"]
+- !private ["s23CustomStringConvertibleP", "Key"]
+- !private ["s23CustomStringConvertibleP", "NSAttributedString"]
+- !private ["s23CustomStringConvertibleP", "SJFrame"]
+- !private ["s23CustomStringConvertibleP", "SJLocalisedString"]
+- !private ["s23CustomStringConvertibleP", "attributedPlaceholder"]
+- ["s23CustomStringConvertibleP", "init"]
+- ["s23CustomStringConvertibleP", "lightGray"]
+- !private ["s23CustomStringConvertibleP", "lowercased"]
+- !private ["s23CustomStringConvertibleP", "navigationBar"]
+- !private ["s23CustomStringConvertibleP", "navigationController"]
+- !private ["s23CustomStringConvertibleP", "placeHolderColor"]
+- !private ["s23CustomStringConvertibleP", "placeholder"]
+- ["s23CustomStringConvertibleP", "red"]
+- !private ["s23CustomStringConvertibleP", "semanticContentAttribute"]
+- !private ["s23CustomStringConvertibleP", "view"]
+- ["s23CustomStringConvertibleP", "white"]
+- !private ["Se", "init"]
+- !private ["Se", "lowercased"]
+- !private ["Se", "semanticContentAttribute"]
+- !private ["SE", "init"]
+- !private ["SE", "lowercased"]
+- !private ["SE", "semanticContentAttribute"]
+- !private ["SQ", "Key"]
+- !private ["SQ", "NSAttributedString"]
+- !private ["SQ", "SJFrame"]
+- !private ["SQ", "SJLocalisedString"]
+- !private ["SQ", "attributedPlaceholder"]
+- !private ["SQ", "forceLeftToRight"]
+- !private ["SQ", "forceRightToLeft"]
+- !private ["SQ", "foregroundColor"]
+- ["SQ", "init"]
+- ["SQ", "lightGray"]
+- !private ["SQ", "lowercased"]
+- !private ["SQ", "navigationBar"]
+- !private ["SQ", "navigationController"]
+- !private ["SQ", "placeHolderColor"]
+- !private ["SQ", "placeholder"]
+- !private ["SQ", "rawValue"]
+- ["SQ", "red"]
+- !private ["SQ", "semanticContentAttribute"]
+- !private ["SQ", "view"]
+- ["SQ", "white"]
+- !private ["SQ", "withMemoryRebound"]
+- !private ["s25ExpressibleByArrayLiteralP", "init"]
+- !private ["s25ExpressibleByArrayLiteralP", "rawValue"]
+- !private ["s43ExpressibleByExtendedGraphemeClusterLiteralP", "lowercased"]
+- !private ["s27ExpressibleByIntegerLiteralP", "init"]
+- !private ["s23ExpressibleByNilLiteralP", "semanticContentAttribute"]
+- !private ["s32ExpressibleByStringInterpolationP", "lowercased"]
+- !private ["s26ExpressibleByStringLiteralP", "lowercased"]
+- !private ["s33ExpressibleByUnicodeScalarLiteralP", "lowercased"]
+- !private ["s17FixedWidthIntegerP", "init"]
+- !private ["SH", "Key"]
+- !private ["SH", "NSAttributedString"]
+- !private ["SH", "SJFrame"]
+- !private ["SH", "SJLocalisedString"]
+- !private ["SH", "attributedPlaceholder"]
+- !private ["SH", "forceLeftToRight"]
+- !private ["SH", "forceRightToLeft"]
+- !private ["SH", "foregroundColor"]
+- ["SH", "init"]
+- ["SH", "lightGray"]
+- !private ["SH", "lowercased"]
+- !private ["SH", "navigationBar"]
+- !private ["SH", "navigationController"]
+- !private ["SH", "placeHolderColor"]
+- !private ["SH", "placeholder"]
+- ["SH", "red"]
+- !private ["SH", "semanticContentAttribute"]
+- !private ["SH", "view"]
+- ["SH", "white"]
+- !private ["SH", "withMemoryRebound"]
+- !private ["So21NSAttributedStringKeya", "foregroundColor"]
+- !private ["s25LosslessStringConvertibleP", "init"]
+- !private ["s25LosslessStringConvertibleP", "lowercased"]
+- !private ["s12MemoryLayoutO", "size"]
+- !private ["s10MirrorPathP", "lowercased"]
+- !private ["So18NSAttributedStringC", "Key"]
+- !private ["So18NSAttributedStringC", "init"]
+- !private ["So8NSCodingP", "Key"]
+- !private ["So8NSCodingP", "NSAttributedString"]
+- !private ["So8NSCodingP", "SJFrame"]
+- !private ["So8NSCodingP", "SJLocalisedString"]
+- !private ["So8NSCodingP", "attributedPlaceholder"]
+- ["So8NSCodingP", "init"]
+- ["So8NSCodingP", "lightGray"]
+- !private ["So8NSCodingP", "lowercased"]
+- !private ["So8NSCodingP", "navigationBar"]
+- !private ["So8NSCodingP", "navigationController"]
+- !private ["So8NSCodingP", "placeHolderColor"]
+- !private ["So8NSCodingP", "placeholder"]
+- ["So8NSCodingP", "red"]
+- !private ["So8NSCodingP", "semanticContentAttribute"]
+- !private ["So8NSCodingP", "view"]
+- ["So8NSCodingP", "white"]
+- !private ["So9NSCopyingP", "Key"]
+- ["So9NSCopyingP", "init"]
+- ["So9NSCopyingP", "lightGray"]
+- !private ["So9NSCopyingP", "lowercased"]
+- ["So9NSCopyingP", "red"]
+- ["So9NSCopyingP", "white"]
+- !private ["So26NSExtensionRequestHandlingP", "SJFrame"]
+- !private ["So26NSExtensionRequestHandlingP", "SJLocalisedString"]
+- !private ["So26NSExtensionRequestHandlingP", "navigationBar"]
+- !private ["So26NSExtensionRequestHandlingP", "navigationController"]
+- !private ["So26NSExtensionRequestHandlingP", "view"]
+- !private ["So21NSItemProviderReadingP", "Key"]
+- ["So21NSItemProviderReadingP", "init"]
+- ["So21NSItemProviderReadingP", "lightGray"]
+- !private ["So21NSItemProviderReadingP", "lowercased"]
+- ["So21NSItemProviderReadingP", "red"]
+- ["So21NSItemProviderReadingP", "white"]
+- !private ["So21NSItemProviderWritingP", "Key"]
+- ["So21NSItemProviderWritingP", "init"]
+- ["So21NSItemProviderWritingP", "lightGray"]
+- !private ["So21NSItemProviderWritingP", "lowercased"]
+- ["So21NSItemProviderWritingP", "red"]
+- ["So21NSItemProviderWritingP", "white"]
+- !private ["So16NSMutableCopyingP", "Key"]
+- !private ["So16NSMutableCopyingP", "init"]
+- !private ["So16NSMutableCopyingP", "lowercased"]
+- !private ["So8NSObjectC", "Key"]
+- !private ["So8NSObjectC", "NSAttributedString"]
+- !private ["So8NSObjectC", "SJFrame"]
+- !private ["So8NSObjectC", "SJLocalisedString"]
+- ["So8NSObjectC", "UIColor"]
+- !private ["So8NSObjectC", "attributedPlaceholder"]
+- ["So8NSObjectC", "init"]
+- ["So8NSObjectC", "lightGray"]
+- !private ["So8NSObjectC", "lowercased"]
+- !private ["So8NSObjectC", "navigationBar"]
+- !private ["So8NSObjectC", "navigationController"]
+- ["So8NSObjectC", "placeHolderColor"]
+- !private ["So8NSObjectC", "placeholder"]
+- ["So8NSObjectC", "red"]
+- !private ["So8NSObjectC", "semanticContentAttribute"]
+- ["So8NSObjectC", "setAwakeFromNib"]
+- !private ["So8NSObjectC", "view"]
+- ["So8NSObjectC", "white"]
+- !private ["So8NSObjectP", "Key"]
+- !private ["So8NSObjectP", "NSAttributedString"]
+- !private ["So8NSObjectP", "SJFrame"]
+- !private ["So8NSObjectP", "SJLocalisedString"]
+- !private ["So8NSObjectP", "attributedPlaceholder"]
+- ["So8NSObjectP", "init"]
+- ["So8NSObjectP", "lightGray"]
+- !private ["So8NSObjectP", "lowercased"]
+- !private ["So8NSObjectP", "navigationBar"]
+- !private ["So8NSObjectP", "navigationController"]
+- !private ["So8NSObjectP", "placeHolderColor"]
+- !private ["So8NSObjectP", "placeholder"]
+- ["So8NSObjectP", "red"]
+- !private ["So8NSObjectP", "semanticContentAttribute"]
+- !private ["So8NSObjectP", "view"]
+- ["So8NSObjectP", "white"]
+- !private ["So14NSSecureCodingP", "Key"]
+- ["So14NSSecureCodingP", "init"]
+- ["So14NSSecureCodingP", "lightGray"]
+- !private ["So14NSSecureCodingP", "lowercased"]
+- ["So14NSSecureCodingP", "red"]
+- ["So14NSSecureCodingP", "white"]
+- !private ["So8NSStringC", "lowercased"]
+- !private ["Sj", "init"]
+- !private ["s9OptionSetP", "init"]
+- !private ["s9OptionSetP", "rawValue"]
+- !private ["Sq", "semanticContentAttribute"]
+- !private ["Sm", "lowercased"]
+- !private ["SY", "forceLeftToRight"]
+- !private ["SY", "forceRightToLeft"]
+- !private ["SY", "foregroundColor"]
+- !private ["SY", "init"]
+- !private ["SY", "rawValue"]
+- !private ["So26SCNetworkReachabilityFlagsV", "init"]
+- !private ["So26SCNetworkReachabilityFlagsV", "rawValue"]
+- !private ["s10SIMDScalarP", "init"]
+- ["12SJFrameSwift0A0C", "Bool"]
+- ["12SJFrameSwift0A0C", "Int"]
+- ["12SJFrameSwift0A0C", "SJFrame"]
+- ["12SJFrameSwift0A0C", "UIColor"]
+- ["12SJFrameSwift0A0C", "init"]
+- ["12SJFrameSwift0A0C", "isHaveRTL"]
+- ["12SJFrameSwift0A0C", "loaderBackgroundColor"]
+- ["12SJFrameSwift0A0C", "loaderIconSize"]
+- ["12SJFrameSwift0A0C", "loaderShadowColor"]
+- ["12SJFrameSwift0A0C", "loaderSize"]
+- ["12SJFrameSwift0A0C", "loaderStrokeColor"]
+- ["12SJFrameSwift0A0C", "loaderStrokeOffset"]
+- ["12SJFrameSwift0A0C", "loaderStrokeWidth"]
+- ["12SJFrameSwift0A0C", "loaderViewBackgroundColor"]
+- ["12SJFrameSwift0A0C", "setLoaderIconSize"]
+- ["12SJFrameSwift0A0C", "setLoaderSize"]
+- ["12SJFrameSwift0A0C", "setisHaveRTL"]
+- ["12SJFrameSwift0A0C", "setloaderStrokeOffset"]
+- ["12SJFrameSwift0A0C", "setloaderStrokeWidth"]
+- ["12SJFrameSwift0A0C", "settings"]
+- ["12SJFrameSwift0A0C", "textFieldToolbarTextColor"]
+- !private ["12SJFrameSwift17SJLanguageManagerC", "getSelectedLocale"]
+- !private ["12SJFrameSwift8SJLocaleV", "languageCode"]
+- !private ["12SJFrameSwift16SJViewControllerC", "SJFrame"]
+- !private ["12SJFrameSwift16SJViewControllerC", "SJLocalisedString"]
+- !private ["12SJFrameSwift16SJViewControllerC", "navigationController"]
+- ["12SJFrameSwift16SJViewControllerC", "setAwakeFromNib"]
+- !private ["ST", "lowercased"]
+- !private ["s10SetAlgebraP", "init"]
+- !private ["s10SetAlgebraP", "rawValue"]
+- !private ["Sx", "init"]
+- !private ["Sx", "withMemoryRebound"]
+- !private ["SS", "lowercased"]
+- !private ["Sy", "lowercased"]
+- !private ["s16TextOutputStreamP", "lowercased"]
+- !private ["s20TextOutputStreamableP", "lowercased"]
+- !private ["So29UIAccessibilityIdentificationP", "NSAttributedString"]
+- !private ["So29UIAccessibilityIdentificationP", "attributedPlaceholder"]
+- !private ["So29UIAccessibilityIdentificationP", "placeHolderColor"]
+- !private ["So29UIAccessibilityIdentificationP", "placeholder"]
+- !private ["So29UIAccessibilityIdentificationP", "semanticContentAttribute"]
+- !private ["So12UIAppearanceP", "NSAttributedString"]
+- !private ["So12UIAppearanceP", "attributedPlaceholder"]
+- !private ["So12UIAppearanceP", "placeHolderColor"]
+- !private ["So12UIAppearanceP", "placeholder"]
+- !private ["So12UIAppearanceP", "semanticContentAttribute"]
+- !private ["So21UIAppearanceContainerP", "NSAttributedString"]
+- !private ["So21UIAppearanceContainerP", "SJFrame"]
+- !private ["So21UIAppearanceContainerP", "SJLocalisedString"]
+- !private ["So21UIAppearanceContainerP", "attributedPlaceholder"]
+- !private ["So21UIAppearanceContainerP", "navigationBar"]
+- !private ["So21UIAppearanceContainerP", "navigationController"]
+- !private ["So21UIAppearanceContainerP", "placeHolderColor"]
+- !private ["So21UIAppearanceContainerP", "placeholder"]
+- !private ["So21UIAppearanceContainerP", "semanticContentAttribute"]
+- !private ["So21UIAppearanceContainerP", "view"]
+- !private ["So16UIBarPositioningP", "semanticContentAttribute"]
+- ["So7UIColorC", "init"]
+- ["So7UIColorC", "lightGray"]
+- ["So7UIColorC", "red"]
+- ["So7UIColorC", "white"]
+- !private ["So18UIContentContainerP", "SJFrame"]
+- !private ["So18UIContentContainerP", "SJLocalisedString"]
+- !private ["So18UIContentContainerP", "navigationBar"]
+- !private ["So18UIContentContainerP", "navigationController"]
+- !private ["So18UIContentContainerP", "view"]
+- !private ["So30UIContentSizeCategoryAdjustingP", "NSAttributedString"]
+- !private ["So30UIContentSizeCategoryAdjustingP", "attributedPlaceholder"]
+- !private ["So30UIContentSizeCategoryAdjustingP", "placeHolderColor"]
+- !private ["So30UIContentSizeCategoryAdjustingP", "placeholder"]
+- !private ["So9UIControlC", "NSAttributedString"]
+- ["So9UIControlC", "UIColor"]
+- !private ["So9UIControlC", "attributedPlaceholder"]
+- ["So9UIControlC", "placeHolderColor"]
+- !private ["So9UIControlC", "placeholder"]
+- !private ["So17UICoordinateSpaceP", "NSAttributedString"]
+- !private ["So17UICoordinateSpaceP", "attributedPlaceholder"]
+- !private ["So17UICoordinateSpaceP", "placeHolderColor"]
+- !private ["So17UICoordinateSpaceP", "placeholder"]
+- !private ["So17UICoordinateSpaceP", "semanticContentAttribute"]
+- !private ["So13UIDynamicItemP", "NSAttributedString"]
+- !private ["So13UIDynamicItemP", "attributedPlaceholder"]
+- !private ["So13UIDynamicItemP", "placeHolderColor"]
+- !private ["So13UIDynamicItemP", "placeholder"]
+- !private ["So13UIDynamicItemP", "semanticContentAttribute"]
+- !private ["So18UIFocusEnvironmentP", "NSAttributedString"]
+- !private ["So18UIFocusEnvironmentP", "SJFrame"]
+- !private ["So18UIFocusEnvironmentP", "SJLocalisedString"]
+- !private ["So18UIFocusEnvironmentP", "attributedPlaceholder"]
+- !private ["So18UIFocusEnvironmentP", "navigationBar"]
+- !private ["So18UIFocusEnvironmentP", "navigationController"]
+- !private ["So18UIFocusEnvironmentP", "placeHolderColor"]
+- !private ["So18UIFocusEnvironmentP", "placeholder"]
+- !private ["So18UIFocusEnvironmentP", "semanticContentAttribute"]
+- !private ["So18UIFocusEnvironmentP", "view"]
+- !private ["So11UIFocusItemP", "NSAttributedString"]
+- !private ["So11UIFocusItemP", "attributedPlaceholder"]
+- !private ["So11UIFocusItemP", "placeHolderColor"]
+- !private ["So11UIFocusItemP", "placeholder"]
+- !private ["So11UIFocusItemP", "semanticContentAttribute"]
+- !private ["So20UIFocusItemContainerP", "NSAttributedString"]
+- !private ["So20UIFocusItemContainerP", "attributedPlaceholder"]
+- !private ["So20UIFocusItemContainerP", "placeHolderColor"]
+- !private ["So20UIFocusItemContainerP", "placeholder"]
+- !private ["So20UIFocusItemContainerP", "semanticContentAttribute"]
+- !private ["So10UIKeyInputP", "NSAttributedString"]
+- !private ["So10UIKeyInputP", "attributedPlaceholder"]
+- !private ["So10UIKeyInputP", "placeHolderColor"]
+- !private ["So10UIKeyInputP", "placeholder"]
+- !private ["So24UILargeContentViewerItemP", "NSAttributedString"]
+- !private ["So24UILargeContentViewerItemP", "attributedPlaceholder"]
+- !private ["So24UILargeContentViewerItemP", "placeHolderColor"]
+- !private ["So24UILargeContentViewerItemP", "placeholder"]
+- !private ["So24UILargeContentViewerItemP", "semanticContentAttribute"]
+- !private ["So15UINavigationBarC", "semanticContentAttribute"]
+- !private ["So22UINavigationControllerC", "navigationBar"]
+- !private ["So22UINavigationControllerC", "view"]
+- !private ["So30UIPasteConfigurationSupportingP", "NSAttributedString"]
+- !private ["So30UIPasteConfigurationSupportingP", "SJFrame"]
+- !private ["So30UIPasteConfigurationSupportingP", "SJLocalisedString"]
+- !private ["So30UIPasteConfigurationSupportingP", "attributedPlaceholder"]
+- !private ["So30UIPasteConfigurationSupportingP", "navigationBar"]
+- !private ["So30UIPasteConfigurationSupportingP", "navigationController"]
+- !private ["So30UIPasteConfigurationSupportingP", "placeHolderColor"]
+- !private ["So30UIPasteConfigurationSupportingP", "placeholder"]
+- !private ["So30UIPasteConfigurationSupportingP", "semanticContentAttribute"]
+- !private ["So30UIPasteConfigurationSupportingP", "view"]
+- !private ["So11UIResponderC", "NSAttributedString"]
+- !private ["So11UIResponderC", "SJFrame"]
+- !private ["So11UIResponderC", "SJLocalisedString"]
+- ["So11UIResponderC", "UIColor"]
+- !private ["So11UIResponderC", "attributedPlaceholder"]
+- !private ["So11UIResponderC", "navigationBar"]
+- !private ["So11UIResponderC", "navigationController"]
+- ["So11UIResponderC", "placeHolderColor"]
+- !private ["So11UIResponderC", "placeholder"]
+- !private ["So11UIResponderC", "semanticContentAttribute"]
+- ["So11UIResponderC", "setAwakeFromNib"]
+- !private ["So11UIResponderC", "view"]
+- !private ["So30UIResponderStandardEditActionsP", "NSAttributedString"]
+- !private ["So30UIResponderStandardEditActionsP", "SJFrame"]
+- !private ["So30UIResponderStandardEditActionsP", "SJLocalisedString"]
+- !private ["So30UIResponderStandardEditActionsP", "attributedPlaceholder"]
+- !private ["So30UIResponderStandardEditActionsP", "navigationBar"]
+- !private ["So30UIResponderStandardEditActionsP", "navigationController"]
+- !private ["So30UIResponderStandardEditActionsP", "placeHolderColor"]
+- !private ["So30UIResponderStandardEditActionsP", "placeholder"]
+- !private ["So30UIResponderStandardEditActionsP", "semanticContentAttribute"]
+- !private ["So30UIResponderStandardEditActionsP", "view"]
+- !private ["So26UISemanticContentAttributeV", "forceLeftToRight"]
+- !private ["So26UISemanticContentAttributeV", "forceRightToLeft"]
+- !private ["So16UIStateRestoringP", "SJFrame"]
+- !private ["So16UIStateRestoringP", "SJLocalisedString"]
+- !private ["So16UIStateRestoringP", "navigationBar"]
+- !private ["So16UIStateRestoringP", "navigationController"]
+- !private ["So16UIStateRestoringP", "view"]
+- !private ["So15UITextDraggableP", "NSAttributedString"]
+- !private ["So15UITextDraggableP", "attributedPlaceholder"]
+- !private ["So15UITextDraggableP", "placeHolderColor"]
+- !private ["So15UITextDraggableP", "placeholder"]
+- !private ["So15UITextDroppableP", "NSAttributedString"]
+- !private ["So15UITextDroppableP", "attributedPlaceholder"]
+- !private ["So15UITextDroppableP", "placeHolderColor"]
+- !private ["So15UITextDroppableP", "placeholder"]
+- !private ["So11UITextFieldC", "NSAttributedString"]
+- ["So11UITextFieldC", "UIColor"]
+- !private ["So11UITextFieldC", "attributedPlaceholder"]
+- ["So11UITextFieldC", "placeHolderColor"]
+- !private ["So11UITextFieldC", "placeholder"]
+- !private ["So11UITextInputP", "NSAttributedString"]
+- !private ["So11UITextInputP", "attributedPlaceholder"]
+- !private ["So11UITextInputP", "placeHolderColor"]
+- !private ["So11UITextInputP", "placeholder"]
+- !private ["So17UITextInputTraitsP", "NSAttributedString"]
+- !private ["So17UITextInputTraitsP", "attributedPlaceholder"]
+- !private ["So17UITextInputTraitsP", "placeHolderColor"]
+- !private ["So17UITextInputTraitsP", "placeholder"]
+- !private ["So34UITextPasteConfigurationSupportingP", "NSAttributedString"]
+- !private ["So34UITextPasteConfigurationSupportingP", "attributedPlaceholder"]
+- !private ["So34UITextPasteConfigurationSupportingP", "placeHolderColor"]
+- !private ["So34UITextPasteConfigurationSupportingP", "placeholder"]
+- !private ["So18UITraitEnvironmentP", "NSAttributedString"]
+- !private ["So18UITraitEnvironmentP", "SJFrame"]
+- !private ["So18UITraitEnvironmentP", "SJLocalisedString"]
+- !private ["So18UITraitEnvironmentP", "attributedPlaceholder"]
+- !private ["So18UITraitEnvironmentP", "navigationBar"]
+- !private ["So18UITraitEnvironmentP", "navigationController"]
+- !private ["So18UITraitEnvironmentP", "placeHolderColor"]
+- !private ["So18UITraitEnvironmentP", "placeholder"]
+- !private ["So18UITraitEnvironmentP", "semanticContentAttribute"]
+- !private ["So18UITraitEnvironmentP", "view"]
+- !private ["So23UIUserActivityRestoringP", "NSAttributedString"]
+- !private ["So23UIUserActivityRestoringP", "SJFrame"]
+- !private ["So23UIUserActivityRestoringP", "SJLocalisedString"]
+- !private ["So23UIUserActivityRestoringP", "attributedPlaceholder"]
+- !private ["So23UIUserActivityRestoringP", "navigationBar"]
+- !private ["So23UIUserActivityRestoringP", "navigationController"]
+- !private ["So23UIUserActivityRestoringP", "placeHolderColor"]
+- !private ["So23UIUserActivityRestoringP", "placeholder"]
+- !private ["So23UIUserActivityRestoringP", "semanticContentAttribute"]
+- !private ["So23UIUserActivityRestoringP", "view"]
+- !private ["So6UIViewC", "NSAttributedString"]
+- ["So6UIViewC", "UIColor"]
+- !private ["So6UIViewC", "attributedPlaceholder"]
+- ["So6UIViewC", "placeHolderColor"]
+- !private ["So6UIViewC", "placeholder"]
+- !private ["So6UIViewC", "semanticContentAttribute"]
+- !private ["So16UIViewControllerC", "SJFrame"]
+- !private ["So16UIViewControllerC", "SJLocalisedString"]
+- !private ["So16UIViewControllerC", "navigationBar"]
+- !private ["So16UIViewControllerC", "navigationController"]
+- ["So16UIViewControllerC", "setAwakeFromNib"]
+- !private ["So16UIViewControllerC", "view"]
+- !private ["s6UInt32V", "init"]
+- !private ["s5UInt8V", "init"]
+- !private ["SP", "withMemoryRebound"]
+- !private ["SU", "init"]
+- !private ["s30_CustomPlaygroundQuickLookableP", "init"]
+- !private ["s30_CustomPlaygroundQuickLookableP", "lowercased"]
+- !private ["s30_CustomPlaygroundQuickLookableP", "withMemoryRebound"]
+- !private ["s51_ExpressibleByBuiltinExtendedGraphemeClusterLiteralP", "lowercased"]
+- !private ["s35_ExpressibleByBuiltinIntegerLiteralP", "init"]
+- !private ["s34_ExpressibleByBuiltinStringLiteralP", "lowercased"]
+- !private ["s41_ExpressibleByBuiltinUnicodeScalarLiteralP", "lowercased"]
+- ["s26_ExpressibleByColorLiteralP", "init"]
+- ["s26_ExpressibleByColorLiteralP", "lightGray"]
+- ["s26_ExpressibleByColorLiteralP", "red"]
+- ["s26_ExpressibleByColorLiteralP", "white"]
+- !private ["s19_HasContiguousBytesP", "lowercased"]
+- !private ["s35_HasCustomAnyHashableRepresentationP", "foregroundColor"]
+- !private ["s35_HasCustomAnyHashableRepresentationP", "init"]
+- !private ["s35_HasCustomAnyHashableRepresentationP", "lowercased"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "Key"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "NSAttributedString"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "SJFrame"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "SJLocalisedString"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "attributedPlaceholder"]
+- ["10Foundation27_KeyValueCodingAndObservingP", "init"]
+- ["10Foundation27_KeyValueCodingAndObservingP", "lightGray"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "lowercased"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "navigationBar"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "navigationController"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "placeHolderColor"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "placeholder"]
+- ["10Foundation27_KeyValueCodingAndObservingP", "red"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "semanticContentAttribute"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "view"]
+- ["10Foundation27_KeyValueCodingAndObservingP", "white"]
+- !private ["10Foundation37_KeyValueCodingAndObservingPublishingP", "Key"]
+- !private ["10Foundation37_KeyValueCodingAndObservingPublishingP", "NSAttributedString"]
+- !private ["10Foundation37_KeyValueCodingAndObservingPublishingP", "SJFrame"]
+- !private ["10Foundation37_KeyValueCodingAndObservingPublishingP", "SJLocalisedString"]
+- !private ["10Foundation37_KeyValueCodingAndObservingPublishingP", "attributedPlaceholder"]
+- ["10Foundation37_KeyValueCodingAndObservingPublishingP", "init"]
+- ["10Foundation37_KeyValueCodingAndObservingPublishingP", "lightGray"]
+- !private ["10Foundation37_KeyValueCodingAndObservingPublishingP", "lowercased"]
+- !private ["10Foundation37_KeyValueCodingAndObservingPublishingP", "navigationBar"]
+- !private ["10Foundation37_KeyValueCodingAndObservingPublishingP", "navigationController"]
+- !private ["10Foundation37_KeyValueCodingAndObservingPublishingP", "placeHolderColor"]
+- !private ["10Foundation37_KeyValueCodingAndObservingPublishingP", "placeholder"]
+- ["10Foundation37_KeyValueCodingAndObservingPublishingP", "red"]
+- !private ["10Foundation37_KeyValueCodingAndObservingPublishingP", "semanticContentAttribute"]
+- !private ["10Foundation37_KeyValueCodingAndObservingPublishingP", "view"]
+- ["10Foundation37_KeyValueCodingAndObservingPublishingP", "white"]
+- !private ["s21_ObjectiveCBridgeableP", "foregroundColor"]
+- !private ["s21_ObjectiveCBridgeableP", "init"]
+- !private ["s21_ObjectiveCBridgeableP", "lowercased"]
+- !private ["s21_ObjectiveCBridgeableP", "semanticContentAttribute"]
+- !private ["s8_PointerP", "withMemoryRebound"]
+- !private ["s14_StringElementP", "init"]
+- !private ["s20_SwiftNewtypeWrapperP", "foregroundColor"]
+- !private ["s38__DefaultCustomPlaygroundQuickLookableP", "NSAttributedString"]
+- !private ["s38__DefaultCustomPlaygroundQuickLookableP", "attributedPlaceholder"]
+- !private ["s38__DefaultCustomPlaygroundQuickLookableP", "placeHolderColor"]
+- !private ["s38__DefaultCustomPlaygroundQuickLookableP", "placeholder"]
+- !private ["s38__DefaultCustomPlaygroundQuickLookableP", "semanticContentAttribute"]
+- !private ["So7in_addrV", "init"]
+- !private ["So11sockaddr_inV", "init"]
+- !private ["So11sockaddr_inV", "sin_family"]
+- !private ["So11sockaddr_inV", "sin_len"]
+depends-nominal:
+- !private "s18AdditiveArithmeticP"
+- !private "SK"
+- !private "Sz"
+- !private "So15CALayerDelegateP"
+- "s7CVarArgP"
+- "12SJFrameSwift13CheckInternetC"
+- !private "Sl"
+- !private "SL"
+- "12SJFrameSwift14ConstantStringV"
+- "s28CustomDebugStringConvertibleP"
+- !private "s17CustomReflectableP"
+- "s23CustomStringConvertibleP"
+- !private "Se"
+- !private "SE"
+- "SQ"
+- !private "s25ExpressibleByArrayLiteralP"
+- !private "s43ExpressibleByExtendedGraphemeClusterLiteralP"
+- !private "s27ExpressibleByIntegerLiteralP"
+- !private "s23ExpressibleByNilLiteralP"
+- !private "s32ExpressibleByStringInterpolationP"
+- !private "s26ExpressibleByStringLiteralP"
+- !private "s33ExpressibleByUnicodeScalarLiteralP"
+- !private "s17FixedWidthIntegerP"
+- "SH"
+- !private "So21NSAttributedStringKeya"
+- !private "s25LosslessStringConvertibleP"
+- !private "s12MemoryLayoutO"
+- !private "s10MirrorPathP"
+- !private "So18NSAttributedStringC"
+- "So8NSCodingP"
+- "So9NSCopyingP"
+- !private "So26NSExtensionRequestHandlingP"
+- "So21NSItemProviderReadingP"
+- "So21NSItemProviderWritingP"
+- !private "So16NSMutableCopyingP"
+- "So8NSObjectC"
+- "So8NSObjectP"
+- "So14NSSecureCodingP"
+- !private "So8NSStringC"
+- !private "Sj"
+- !private "s9OptionSetP"
+- !private "Sq"
+- !private "Sm"
+- !private "SY"
+- !private "So26SCNetworkReachabilityFlagsV"
+- !private "s10SIMDScalarP"
+- "12SJFrameSwift0A0C"
+- !private "12SJFrameSwift17SJLanguageManagerC"
+- !private "12SJFrameSwift8SJLocaleV"
+- "12SJFrameSwift16SJViewControllerC"
+- !private "ST"
+- !private "s10SetAlgebraP"
+- !private "Sx"
+- !private "SS"
+- !private "Sy"
+- !private "s16TextOutputStreamP"
+- !private "s20TextOutputStreamableP"
+- !private "So29UIAccessibilityIdentificationP"
+- !private "So12UIAppearanceP"
+- !private "So21UIAppearanceContainerP"
+- !private "So16UIBarPositioningP"
+- "So7UIColorC"
+- !private "So18UIContentContainerP"
+- !private "So30UIContentSizeCategoryAdjustingP"
+- "So9UIControlC"
+- !private "So17UICoordinateSpaceP"
+- !private "So13UIDynamicItemP"
+- !private "So18UIFocusEnvironmentP"
+- !private "So11UIFocusItemP"
+- !private "So20UIFocusItemContainerP"
+- !private "So10UIKeyInputP"
+- !private "So24UILargeContentViewerItemP"
+- !private "So15UINavigationBarC"
+- !private "So22UINavigationControllerC"
+- !private "So30UIPasteConfigurationSupportingP"
+- "So11UIResponderC"
+- !private "So30UIResponderStandardEditActionsP"
+- !private "So26UISemanticContentAttributeV"
+- !private "So16UIStateRestoringP"
+- !private "So15UITextDraggableP"
+- !private "So15UITextDroppableP"
+- "So11UITextFieldC"
+- !private "So11UITextInputP"
+- !private "So17UITextInputTraitsP"
+- !private "So34UITextPasteConfigurationSupportingP"
+- !private "So18UITraitEnvironmentP"
+- !private "So23UIUserActivityRestoringP"
+- "So6UIViewC"
+- "So16UIViewControllerC"
+- !private "s6UInt32V"
+- !private "s5UInt8V"
+- !private "SP"
+- !private "SU"
+- !private "s30_CustomPlaygroundQuickLookableP"
+- !private "s51_ExpressibleByBuiltinExtendedGraphemeClusterLiteralP"
+- !private "s35_ExpressibleByBuiltinIntegerLiteralP"
+- !private "s34_ExpressibleByBuiltinStringLiteralP"
+- !private "s41_ExpressibleByBuiltinUnicodeScalarLiteralP"
+- "s26_ExpressibleByColorLiteralP"
+- !private "s19_HasContiguousBytesP"
+- !private "s35_HasCustomAnyHashableRepresentationP"
+- "10Foundation27_KeyValueCodingAndObservingP"
+- "10Foundation37_KeyValueCodingAndObservingPublishingP"
+- !private "s21_ObjectiveCBridgeableP"
+- !private "s8_PointerP"
+- !private "s14_StringElementP"
+- !private "s20_SwiftNewtypeWrapperP"
+- !private "s38__DefaultCustomPlaygroundQuickLookableP"
+- !private "So7in_addrV"
+- !private "So11sockaddr_inV"
+depends-dynamic-lookup:
+depends-external:
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS13.2.sdk/usr/lib/swift/ObjectiveC.swiftmodule/arm64.swiftinterface"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS13.2.sdk/usr/lib/swift/CoreImage.swiftmodule/arm64.swiftinterface"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS13.2.sdk/usr/lib/swift/QuartzCore.swiftmodule/arm64.swiftinterface"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS13.2.sdk/usr/lib/swift/Dispatch.swiftmodule/arm64.swiftinterface"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS13.2.sdk/usr/lib/swift/Metal.swiftmodule/arm64.swiftinterface"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS13.2.sdk/usr/lib/swift/Darwin.swiftmodule/arm64.swiftinterface"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS13.2.sdk/usr/lib/swift/Foundation.swiftmodule/arm64.swiftinterface"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS13.2.sdk/usr/lib/swift/CoreFoundation.swiftmodule/arm64.swiftinterface"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS13.2.sdk/usr/lib/swift/CoreGraphics.swiftmodule/arm64.swiftinterface"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS13.2.sdk/usr/lib/swift/Swift.swiftmodule/arm64.swiftinterface"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS13.2.sdk/usr/lib/swift/UIKit.swiftmodule/arm64.swiftinterface"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS13.2.sdk/usr/lib/swift/SwiftOnoneSupport.swiftmodule/arm64.swiftinterface"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS13.2.sdk/System/Library/Frameworks/Combine.framework/Modules/Combine.swiftmodule/arm64-apple-ios.swiftinterface"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/prebuilt-modules/ObjectiveC.swiftmodule/arm64.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/prebuilt-modules/CoreImage.swiftmodule/arm64.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/prebuilt-modules/QuartzCore.swiftmodule/arm64.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/prebuilt-modules/Dispatch.swiftmodule/arm64.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/prebuilt-modules/Metal.swiftmodule/arm64.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/prebuilt-modules/Darwin.swiftmodule/arm64.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/prebuilt-modules/Foundation.swiftmodule/arm64.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/prebuilt-modules/CoreFoundation.swiftmodule/arm64.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/prebuilt-modules/CoreGraphics.swiftmodule/arm64.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/prebuilt-modules/Swift.swiftmodule/arm64.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/prebuilt-modules/UIKit.swiftmodule/arm64.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/prebuilt-modules/SwiftOnoneSupport.swiftmodule/arm64.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/prebuilt-modules/Combine.swiftmodule/arm64-apple-ios.swiftmodule"
+- "/Users/arun/Desktop/Projects/iOS /Git/GIT-Swift-Frame/SJFrameSwift/Example/Pods/Target Support Files/SJFrameSwift/SJFrameSwift-umbrella.h"
+- "/Users/arun/Desktop/Projects/iOS /Git/GIT-Swift-Frame/SJFrameSwift/Example/build/Pods.build/Debug-iphoneos/SJFrameSwift.build/unextended-module.modulemap"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS13.2.sdk/usr/include/objc/ObjectiveC.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS13.2.sdk/System/Library/Frameworks/OpenGLES.framework/Headers/OpenGLES.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS13.2.sdk/System/Library/Frameworks/CoreImage.framework/Headers/CoreImage.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS13.2.sdk/System/Library/Frameworks/QuartzCore.framework/Headers/QuartzCore.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/apinotes/Dispatch.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS13.2.sdk/System/Library/Frameworks/Metal.framework/Headers/Metal.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS13.2.sdk/usr/include/Darwin.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS13.2.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS13.2.sdk/System/Library/Frameworks/CoreGraphics.framework/Headers/CoreGraphics.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS13.2.sdk/System/Library/Frameworks/UserNotifications.framework/Headers/UserNotifications.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS13.2.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS13.2.sdk/System/Library/Frameworks/CoreText.framework/Headers/CoreText.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS13.2.sdk/System/Library/Frameworks/Security.framework/Headers/Security.apinotes"
+interface-hash: "81722e9aeb370af2025ac918a2c89018"
